@@ -41,322 +41,6 @@
 ##
 
 {
-ckey: readingsteiner
-character_name: Curt Conrad
-item_path: /obj/item/clothing/mask/gas/plaguedoctor
-}
-{
-ckey: readingsteiner
-character_name: Curt Conrad
-item_path: /obj/item/weapon/coin/gold
-}
-{
-ckey: matthew951
-character_name: Korom Bhararaya
-item_path: /obj/item/weapon/kitchenknife/hook
-}
-{
-ckey: searif
-character_name: Yuki Matsuda
-item_path: /obj/item/toy/prize/durand
-}
-{
-ckey: serenemelody
-character_name: Mai Yang
-item_path: /obj/item/clothing/under/cheongsam
-}
-{
-ckey: vivallion
-character_name: Kecer Eldraran
-item_path: /obj/item/clothing/shoes/jackboots/unathi
-}
-{
-ckey: mkalash
-character_name: Naji Tharama
-item_path: /obj/item/clothing/accessory/medal
-item_name: Star of Bravery
-item_icon: gold_star
-item_desc: A gold star. Inscribed on the back is "This STAR OF BRAVERY is awarded to NAJI THARAMA."
-}
-{
-ckey: mangled
-character_name: Li Matsuda
-item_name: blue zippo lighter
-item_desc: A zippo lighter made of some blue metal.
-item_icon: bluezippo
-item_path: /obj/item/weapon/flame/lighter/zippo
-}
-{
-ckey: vivallion
-character_name: Isaac Jachym
-item_name: butterfly lighter
-item_desc: A custom-made zippo lighter, looks rather expensive. On one of it's sides, a clean inscription has been made, 'Butterfly, what is your wisdom?' And I looked down at it's majestic form, flexing it's wings as if to show it's strength. 'Fuck chechenya.' Had it whispered, before fluttering away, and so we went to war.'
-item_icon: che_zippo
-item_path: /obj/item/weapon/flame/lighter/zippo
-}
-{
-ckey: ziepes
-character_name: Janis Godmanis
-item_name: red-white-red zippo
-item_desc: A badass zippo that looks like the Austrian flag. Upon closer inspection it is revealed that it's a different shade of red than the Austrian flag.
-item_icon: redzippo
-item_path: /obj/item/weapon/lighter/zippo/fluff/janis_godmanis
-}
-{
-ckey: astronovus
-character_name: Harold Greenwood
-item_name: Harold's cane
-item_desc: A cane with a wooden handle and a plastic frame capable of folding itself to make it more storable.
-item_path: /obj/item/weapon/cane
-item_icon: foldcane
-}
-{
-ckey: meyar
-character_name: Arleen Ryals
-item_desc: This cane seems to have 'Ryals' engraved on its handle.
-item_path: /obj/item/weapon/cane/fluff/ryals
-}
-{
-ckey: brosephstylin
-character_name: Joseph Lombardi
-item_desc: 	A dark blue, martian-pattern, EMS jacket. It sports high-visibility reflective stripes, a star of life on the back, and has a nametag on the right side of the chest that reads 'Lombardi B-'.
-item_path: /obj/item/clothing/suit/storage/toggle/fr_jacket/ems
-}
-{
-ckey: chinsky
-character_name: Victor Kaminski
-item_desc: NanoTrasen Security Department detective's badge, made from gold. Badge number is 564.
-item_path: /obj/item/clothing/accessory/badge
-}
-{
-ckey: donofnyc3
-character_name: Oen'g Issek
-item_name: primitive mask
-item_desc: A decorated and creepy gas mask with the filters removed.
-item_icon: issek_mask
-item_path: /obj/item/clothing/mask/surgical
-}
-{
-ckey: fekkor
-character_name: Sophie Rogers
-item_name: Sophie's belt
-item_desc: A tool-belt in Atmos colours.
-item_icon: sophie_belt
-item_path: /obj/item/weapon/storage/belt/utility/full
-}
-{
-ckey: footman04
-character_name: Fazh Al-Nalik
-item_path: /obj/item/toy/plushie/farwa
-}
-{
-ckey: fyshen
-character_name: Lucina Franco
-item_name: MIT labcoat
-item_desc: A lab coat from the Martian Institute of Technology with the name 'Dr. Lucina Franco' embroidered onto the right breast pocket."
-item_path: /obj/item/clothing/suit/storage/toggle/labcoat
-}
-{
-ckey: jadepython
-character_name: Thysse Ezinwa
-item_name: medical eyepatch
-item_desc: On the strap, EZINWA is written in white block letters.
-item_path: /obj/item/clothing/glasses/eyepatch
-}
-{
-ckey: jakksergal
-character_name: Nashi Ra'hal
-item_name: rainbow medical belt
-item_desc: A somewhat-worn, modified, rainbow belt.
-item_icon: nashi_belt
-item_path: /obj/item/weapon/storage/belt/medical
-}
-{
-ckey: kocoa
-character_name: Kaine Kalim
-item_name: formal medical cap
-item_desc: An unusually sterile and folded cap. It seems to bear the Nanotrasen logo.
-item_icon: kainecap
-item_path: /obj/item/clothing/head
-}
-{
-ckey: kocoa
-character_name: Kaine Kalim
-item_name: formal medical uniform
-item_desc: An unusually sterile and pressed uniform. It seems to have a string of vials crossing the chest.
-item_icon: kaineuniform
-item_path: /obj/item/clothing/under
-}
-{
-ckey: masterrbc
-character_name: Robert Mason
-item_name: corporate cap
-item_desc: It's a baseball hat in corporate colors.
-item_path: /obj/item/clothing/head/soft/sec/corp
-}
-{
-ckey: papadrow
-character_name: Lillian Amsel
-item_name: black dress
-item_desc: A knee-length, dark gray and black dress made of a soft, velvety material.
-item_icon: lillian_dress
-item_path: /obj/item/clothing/under
-}
-{
-ckey: paradoxon
-character_name: Qokkri Xilo
-item_name: Skrellian tailwear
-item_desc: An ensemble of sophisticated jewels and bands, most likely belonging to a scientific Skrell.
-item_icon: xilobeads
-item_path: /obj/item/clothing/ears
-}
-{
-ckey: raptor1628
-character_name: Ronan Harper
-item_name: PRC Uniform
-item_desc: A well maintained uniform from one of the many Private Security firms Nanotrasen hires from. The name Harper is printed on the back.
-item_icon: harper_uniform
-item_path: /obj/item/clothing/under/rank/security
-}
-{
-ckey: ravensdale
-character_name: Sakura Hokkaido
-item_name: sakura kimono
-item_desc: A pale-pink, nearly white, kimono with a red and gold obi. There is a embroidered design of cherry blossom flowers covering the kimono.
-item_icon: sakura_hokkaido_kimono
-item_path: /obj/item/clothing/under
-}
-{
-ckey: serithi
-character_name: Korr'aj Dostek
-item_name: adapted helmet
-item_desc: Standard Security gear. Protects the head from impacts. This helmet is specially made for horned Unathi.
-item_icon: adapted_h
-item_path: /obj/item/clothing/head/helmet
-}
-{
-ckey: sicktrigger
-character_name: David Fanning
-item_name: golden scalpel
-item_desc: A fine surgical cutting tool covered in thin gold leaf. Does not seem able to cut anything.
-item_icon: david_fanning_1
-item_path: /obj/item
-}
-{
-ckey: tudoreleuu
-character_name: Emilia Scott
-item_name: customized pAI unit
-item_desc: It seems to be a pAI unit, albeit in a different shell. It acts exactly like the normal one.
-item_icon: customized_pai
-item_path: /obj/item/device/paicard
-}
-{
-ckey: von2531
-character_name: Jack Washington
-item_name: colonial marine beret
-item_desc: A well-worn navy blue beret. The insignia of the Martian Colonial Marine Corps is affixed to the front.
-item_path: /obj/item/clothing/head/beret/sec/alt
-}
-{
-ckey: yankeesamurai
-character_name: Hali Ishimaru
-item_name: duty boots
-item_desc: Eight-inch black leather boots with side zips and NT-approved safety toes.
-item_path: /obj/item/clothing/shoes/jackboots
-}
-{
-ckey: zekesulastin
-character_name: Matthew Riebhardt
-item_name: academic journal
-item_desc: An academic journal, seemingly pertaining to medical genetics. This issue is for the second quarter of 2557. Paper flags demarcate some articles the owner finds interesting.
-item_icon: matthewriebhardt
-item_path: /obj/item/weapon/folder/blue
-}
-{
-ckey: andrewmeythaler
-character_name: Dante Cicero
-item_name: painted mask
-item_desc: A ghoulish mask with a stylized painting of a flame over the left eye, and a painted tear stream coming from the right eye.
-item_icon: cicero
-item_path: /obj/item/clothing/mask
-}
-{
-ckey: solaruin
-character_name: Cybele Petit
-item_path: /obj/item/device/kit/suit
-item_name: salvage voidsuit modification kit
-item_desc: A kit containing all the needed tools and parts to modify a voidsuit into a salvage voidsuit.
-kit_name: salvage
-kit_icon: salvage
-kit_desc: A piece of orange voidsuit armour used by salvage flotillas. Has reinforced plating.
-}
-{
-ckey: roaper
-character_name: Callum Leamas
-item_path: /obj/item/device/kit/suit
-item_name: Callum's voidsuit modification kit
-item_desc: A kit containing all the needed tools and parts to modify a voidsuit.
-kit_name: weathered
-kit_icon: roaper
-kit_desc: A jury-rigged and modified section of engineering voidsuit armour. It looks slightly damaged and dinged.
-}
-{
-ckey: ragnie
-character_name: Chloe Chartreuse
-item_path: /obj/item/clothing/accessory
-item_name: omega trinket
-item_desc: A plain looking trinket in the shape of the Omega letter. It's made of sterling silver.
-item_icon: chloetrinket
-}
-{
-ckey: emmanuelbassil
-character_name: Noah Bedran
-item_path: /obj/item/toy/bosunwhistle
-item_name: captain's whistle  
-item_desc: A small, compact blue whistle; with the NT logo engraved on its side. It hangs from a golden chain.
-}
-{
-ckey: lorenluke
-character_name: Loren Leimer
-item_path: /obj/item/clothing/accessory
-item_name: polka-dot bowtie
-item_icon: bowtie_ugly
-item_desc: A polka-dot neosilk bowtie.You avoid staring at that awful pattern, lest you become ill.
-}
-{
-ckey: darkkota
-character_name: Adrian Calhoun
-item_path: /obj/item/clothing/head/helmet/warden
-item_name: Carver's hat
-item_desc: It's a special hat issued to the Warden of a security force. This one has the word "CARVER" stitched in silver thread on the back of it.
-req_titles: Warden
-}
-{
-ckey: dragor23
-character_name: Axthaxiotl Derredo
-item_path: /obj/item/weapon/material/knife
-item_name: obsidian ritual knife
-item_desc: A curved blade made of obsidian, black as night. 
-item_icon: obsidianknife
-}
-{
-ckey: wickedtemp
-character_name: Tempest Huxley
-item_path: /obj/item/clothing/mask/gas/plaguedoctor
-item_name: Huxley's mask
-item_desc: A modernized version of a classic design, this mask will not only filter out phoron but it can also be connected to an air supply. This one is colored purple, and has the name 'Huxley' written in small print on the back.
-item_icon: huxley_mask
-}
-{
-ckey: chike101
-character_name: Richard Cooper
-item_path: /obj/item/clothing/under
-item_name: exotic shirt
-item_icon: cooper_outfit
-item_desc: A laid-back ancient-earth hawaiian shirt and pants, which have little to do with infinity or jelly donuts.
-}
-
-{
 ckey: sabess
 character_name: Maria Korchnoi
 item_path: /obj/item/clothing/accessory/locket
@@ -366,85 +50,25 @@ item_desc: A silver, heart-shaped locket. It flips open to reveal two pictures, 
 }
 
 {
-ckey: derpislav
-character_name: Kalta Legates
-item_path: /obj/item/clothing/gloves/grey
-item_name: Padded Glove
-item_icon: kaltaglove
-item_desc: A very tight elbow-long left glove, fitted with various inserts and rigid plating. Paired with a standard right glove. Proudly bears the letters "NT".
+ckey: emmanuelbassil
+character_name: Noah Bedran
+item_path: /obj/item/toy/bosunwhistle
+item_name: captain's whistle  
+item_desc: A small, compact blue whistle; with the NT logo engraved on its side. It hangs from a golden chain.
 }
 
 {
-ckey: mewth
-character_name: Aliq Ma'sari-Dar
-item_path: /obj/item/clothing/gloves/brown
-item_name: Worn Leather Gloves
-item_icon: aliqgloves
-item_desc: A pair of worn, leather gloves. They seem to be fit for clawed species. They have a tag on the inside with "Aliq" written on them.
+ckey: footman04
+character_name: Fazh Al-Nalik
+item_path: /obj/item/toy/plushie/farwa
 }
 
 {
-ckey: shadowofman
-character_name: Daniel Phillips
-item_path: /obj/item/device/radio
-item_name: Handheld Communicator
-item_icon: phoneradio
-item_desc: A small handheld communicator, it bears a faded letter "H" on its back. It has two numbered dials on its front below a screen.
-}
-
-{
-ckey: slayerhero90
-character_name: Hyacinthe Bisset
-item_path: /obj/item/clothing/under/wedding
-item_name: Red Flame Dress
-item_icon: redflame
-item_desc: A small black dress with red flames.
-}
-
-{
-ckey: wickedtemp
-character_name: Tempest Huxley
-item_path: /obj/item/clothing/glasses/hud/health
-item_name: Purple MedHUD
-item_icon: huxhud
-item_desc: A heads-up display that scans the humans in view and provides accurate data about their health status. This one has a purple lens, and has "Huxley" engraved on the side in small print.
-}
-
-
-{
-ckey: morguemeat
-character_name: Skreaaakiskrekakra
-item_path: /obj/item/clothing/under/dress
-item_name: Vox Servant's Dress
-item_icon: skreadress
-item_desc: A dress tailored for an NT employed Vox. Suitable for a maid, but also fitting for other low level positions aboard a Space station.
-}
-
-{
-ckey: crushtoe
-character_name: Javon Cressman
-item_path: /obj/item/device/ano_scanner
-item_name: Alden-Saraspova Portable Spectrometer
-item_icon: javscanner
-item_desc: A top of the line model of Alden-Saraspova Counter, looks expensive. Has the name "Cressman" taped on the back.
-}
-
-{
-ckey: linearb
-character_name: Trenton Newbern
-item_path: /obj/item/trash/plate
-item_name: Mustache Wax
-item_icon: linearbwax
-item_desc: An aluminum tin of mustache wax, decorated with ridiculous handlebar mustache on the top. "Property of Trenton Newbern: DO NOT STEAL!!" is written in small letters on one side.
-}
-
-{
-ckey: foxeye
-character_name: John Saaland
-item_path: /obj/item/clothing/under
-item_name: GA Jumpsuit
-item_icon: saaland
-item_desc: A tan jumpsuit, robustly constructed, with various velcro strips for name and ranking patches distributed over the torso and shoulders. Only one of these strips is in use, holding a patch with "J. SAALAND" written on it in block lettering over the right breast pocket.
+ckey: zekesulastin
+character_name: Matthew Riebhardt
+item_path: /obj/item/clothing/suit/storage/toggle/labcoat/genetics
+item_name: Old Geneticist Labcoat
+item_desc: A standard geneticist's labcoat - this one looks a little worn. "Dr. Riebhardt" is embroidered in script over the left breast pocket.
 }
 
 {
@@ -475,21 +99,45 @@ item_desc: A dark black labcoat that appears to be slightly frayed around the ed
 }
 
 {
-ckey: emgee
-character_name: Vincent Vargas
-item_path: /obj/item/clothing/glasses/sunglasses/prescription
-item_name: horn-rimmed glasses
-item_icon: emgee_glasses
-item_desc: "A pair of stylish(?) prescription eyeglasses with a brown frame and silver rim from the Xa'lai Eyewear collection. These ones seem to have photochromic lenses that darken when they are exposed to a bright light."
-req_titles: Captain, Head of Personnel, Head of Security, Internal Affairs
+ckey: ragnie
+character_name: Chloe Chartreuse
+item_path: /obj/item/clothing/accessory
+item_name: omega trinket
+item_desc: A plain looking trinket in the shape of the Omega letter. It's made of sterling silver.
+item_icon: chloetrinket
 }
 
 {
-ckey: nerezza
-character_name: Kahra Haytam
-item_path: /obj/item/clothing/glasses/welding
-item_name: gogglepatch
-item_icon: kahraeyepatch-
-item_desc: "An eyepatch with a single welding goggle lens attached to flip down over the left eye. The design and construction are both of high quality for comfortable wear, and the name 'Kahra' has been stitched on the inner side of the patch."
-req_titles: Chief Engineer, Station Engineer, Maintenance Technician, Engine Technician, Electrician, Atmospheric Technician
+ckey: redstryker
+character_name: Aubrey Mitchell
+item_path: /obj/item/clothing/ears/earmuffs/headphones
+item_name: skull headphones
+item_desc: A pair of noise-cancelling headphones. There are bleach white skulls on both phones that are giving creepy, yellow smiles. There is a cord running from the right phone that can be plugged into any standard PDA.
+item_icon: skullheadphones
+}
+
+{
+ckey: redstryker
+character_name: John MacNamarra
+item_path: /obj/item/weapon/storage/bible
+item_name: MacNamarra Family Bible
+item_desc: It is an old, white Bible with white trim and semi-frayed, yellowed edges and pages.  It has a green Celtic cross on the cover with gold trim.  Over the middle of the cross, there is a red shield with a white lion in the middle and a bascinet helmet adorned with red feathers above the shield. 
+item_icon: macnamarrabible
+}
+
+{
+ckey: devildabeast
+character_name: Looping Song
+item_path: /obj/item/clothing/suit/storage/toggle/labcoat
+item_name: e UMi Labcoat
+item_icon: loopingsonglabcoat_open
+item_desc: A suit that protects against minor chemical spills. Has a black stripe on the shoulder. The abbreviation "e UMi" is written on the back in bold text.
+}
+
+{
+ckey: personae
+character_name: Maja Dahl
+item_path: /obj/item/clothing/head/beret/centcom/captain
+item_name: white beret
+item_desc: A white beret with the blue triple chevron insignia of a police sergeant. On the inside tag the initials "MD" are written.
 }
