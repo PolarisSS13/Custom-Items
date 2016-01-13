@@ -141,3 +141,12 @@ item_path: /obj/item/clothing/head/beret/centcom/captain
 item_name: white beret
 item_desc: A white beret with the blue triple chevron insignia of a police sergeant. On the inside tag the initials "MD" are written.
 }
+
+{
+ckey: paradoxspace
+character_name: Ranveer Singh
+item_path: /obj/item/clothing/head
+item_name: Blue Turban Wrap
+item_desc: This is a meter and a half of high quality royal blue cloth. Commonly seen being tied into a turban.
+item_icon: singh_turban
+}
