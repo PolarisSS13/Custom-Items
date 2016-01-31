@@ -113,7 +113,7 @@ character_name: Aubrey Mitchell
 item_path: /obj/item/clothing/ears/earmuffs/headphones
 item_name: skull headphones
 item_desc: A pair of noise-cancelling headphones. There are bleach white skulls on both phones that are giving creepy, yellow smiles. There is a cord running from the right phone that can be plugged into any standard PDA.
-item_icon: skullheadphones
+item_icon: skullheadphones_off
 }
 
 {
@@ -149,4 +149,31 @@ item_path: /obj/item/clothing/head
 item_name: Blue Turban Wrap
 item_desc: This is a meter and a half of high quality royal blue cloth. Commonly seen being tied into a turban.
 item_icon: singh_turban
+}
+
+{
+ckey: freshwood
+character_name: Tom Fowler
+item_path: /obj/item/clothing/suit/storage/hazardvest
+item_name: Hazard Overcoat
+item_desc: An old, heavy overcoat designed to keep the wearer visible in industrial areas.
+item_icon: fowlercoat
+}
+
+{
+ckey: heliodor
+character_name: Hollywood McElroy
+item_path: /obj/item/clothing/suit/storage/toggle/brown_jacket
+item_name: Limited Edition NT Leather Jacket
+item_desc: It's a limited edition CentComm white leather NT Jacket. How cool is that?
+item_icon: hollywoodjacket_open
+}
+
+{
+ckey: Sin4
+character_name: Terra Fontaine
+item_path: /obj/item/clothing/under/rank/medical
+item_name: Red Cartoon Scrubs
+item_desc: Some red scrubs with cartoon characters on them.
+item_icon: redkidscrubs
 }
