@@ -177,3 +177,30 @@ item_name: Red Cartoon Scrubs
 item_desc: Some red scrubs with cartoon characters on them.
 item_icon: redkidscrubs
 }
+
+{
+ckey: Bobhendly
+character_name: Tau-Rho Machina
+item_path: /obj/item/weapon/storage/briefcase
+item_name: Tau-Rho's Suitcase
+item_desc: Some dust bunnies and old crumpled paperwork can be found inside.
+item_icon: tau-rho_brief
+}
+
+{
+ckey: Ithalan
+character_name: Valerie Moore
+item_path: /obj/item/weapon/cane
+item_name: White Cane
+item_desc: A white cane with a handstrap at one end, commonly seen in the hand of the blind.
+item_icon: valmoore_cane
+}
+
+{
+ckey: Za_Redman
+character_name: Katrin Richtofen
+item_path: /obj/item/clothing/under/blackjumpskirt
+item_name: Executive Suit-Skirt
+item_desc: Serious business with a feminine flair.
+item_icon: female_executive_skirt
+}
