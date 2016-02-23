@@ -204,3 +204,12 @@ item_name: Executive Suit-Skirt
 item_desc: Serious business with a feminine flair.
 item_icon: female_executive_skirt
 }
+
+{
+ckey: XDarkSapphire
+character_name: Masque
+item_path: /obj/item/clothing/suit/storage/leather_jacket
+item_name: High-Collar Trenchcoat
+item_desc: An oversized black and grey trenchcoat. It has a high-collar, and seems like it would be useful for concealing things.
+item_icon: masquecoat
+}
