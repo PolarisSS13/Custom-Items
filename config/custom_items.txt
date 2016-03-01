@@ -107,14 +107,14 @@ item_desc: A plain looking trinket in the shape of the Omega letter. It's made o
 item_icon: chloetrinket
 }
 
-{
-ckey: redstryker
-character_name: Aubrey Mitchell
-item_path: /obj/item/clothing/ears/earmuffs/headphones
-item_name: skull headphones
-item_desc: A pair of noise-cancelling headphones. There are bleach white skulls on both phones that are giving creepy, yellow smiles. There is a cord running from the right phone that can be plugged into any standard PDA.
-item_icon: skullheadphones_off
-}
+#{
+#ckey: redstryker
+#character_name: Aubrey Mitchell
+#item_path: /obj/item/clothing/ears/earmuffs/headphones
+#item_name: skull headphones
+#item_desc: A pair of noise-cancelling headphones. There are bleach white skulls on both phones that are giving creepy, yellow smiles. There is a cord running from the right phone that can be plugged into any standard PDA.
+#item_icon: skullheadphones_off
+#}
 
 {
 ckey: redstryker
@@ -212,4 +212,31 @@ item_path: /obj/item/clothing/suit/storage/leather_jacket
 item_name: High-Collar Trenchcoat
 item_desc: An oversized black and grey trenchcoat. It has a high-collar, and seems like it would be useful for concealing things.
 item_icon: masquecoat
+}
+
+{
+ckey: heliodor
+character_name: Hollywood McElroy
+item_path: /obj/item/clothing/under/blackjumpskirt
+item_name: Pink Cardigan
+item_desc: A pink cardigan over a white button-up shirt and khaki shorts. Pretty adorable.
+item_icon: hollywood_cardigan
+}
+
+{
+ckey: jakksergal
+character_name: Eshi Riri
+item_path: /obj/item/weapon/storage/bible
+item_name: Riri's Art Book
+item_desc: A thick, heavy, and tattered binder with many pages of hand drawn pictures. In the bottom right is written "Riri's" in a little name box. Next to that is "PRIVATE" written in big red painted-on letters. 
+item_icon: riri_book
+}
+
+{
+ckey: serenemelody
+character_name: Yui Tanaka
+item_path: /obj/item/clothing/ears/earmuffs/headphones
+item_name: Kat-phones
+item_desc: A pair of headphones made my Takashi Electronics. These ones are designed to look like cat ears.
+item_icon: kat-fones_off
 }
