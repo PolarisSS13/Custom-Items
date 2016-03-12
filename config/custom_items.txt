@@ -240,3 +240,38 @@ item_name: Kat-phones
 item_desc: A pair of headphones made my Takashi Electronics. These ones are designed to look like cat ears.
 item_icon: kat-fones_off
 }
+
+{
+ckey: bishop3000
+character_name: Bishop
+item_path: /obj/item/clothing/suit/storage/det_trench/grey
+item_name: Bishop's Trenchcoat
+item_desc: A spotless, expensive-looking trenchcoat. Handsome.
+}
+
+{
+ckey: simionarch
+character_name: Simon Haricot
+item_path: /obj/item/clothing/head/soft/mime
+item_name: Simon's Cap
+item_desc: It's a baseball cap in a tasteful white color!
+item_icon: simonhat
+}
+
+{
+ckey: nerezza
+character_name: Kahra Hassan
+item_path: /obj/item/clothing/glasses/welding
+item_name: Gogglepatch
+item_desc: An eyepatch with a single welding goggle lens attached to flip down over the left eye. The design and construction are both of high quality for comfortable wear, and the name 'Kahra' has been stitched on the inner side of the patch.
+item_icon: weld-eyepatch-ner-g
+}
+
+{
+ckey: buttmcgat
+character_name: Irene Jackson
+item_path: /obj/item/clothing/head/beret
+item_name: Worn Beret
+item_desc: A faded, old looking beret. The metal badge has the remains of a corporate logo.
+item_icon: irene_beret
+}
