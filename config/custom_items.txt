@@ -190,10 +190,9 @@ item_icon: tau-rho_brief
 {
 ckey: Ithalan
 character_name: Valerie Moore
-item_path: /obj/item/weapon/cane
+item_path: /obj/item/weapon/cane/whitecane
 item_name: White Cane
 item_desc: A white cane with a handstrap at one end, commonly seen in the hand of the blind.
-item_icon: valmoore_cane
 }
 
 {
@@ -255,7 +254,6 @@ character_name: Simon Haricot
 item_path: /obj/item/clothing/head/soft/mime
 item_name: Simon's Cap
 item_desc: It's a baseball cap in a tasteful white color!
-item_icon: simonhat
 }
 
 {
@@ -274,4 +272,40 @@ item_path: /obj/item/clothing/head/beret
 item_name: Worn Beret
 item_desc: A faded, old looking beret. The metal badge has the remains of a corporate logo.
 item_icon: irene_beret
+}
+
+{
+ckey: xdarksapphire
+character_name: Alyss
+item_path: /obj/item/clothing/under
+item_name: Antiquarian Dress
+item_desc: "An antiquarian black dress, harkening back to the days of the Victorian era. A deep love for the wearer can be surmised by the craftmanship and care put into the article, almost bordering on mania."
+item_icon: alyss_dress
+}
+
+{
+ckey: luxlator
+character_name: Cadence Edwards
+item_path: /obj/item/toy/plushie
+item_name: Owl Plushie
+item_desc: WHOO? It's a cuddly owl plush!
+item_icon: peatril
+}
+
+{
+ckey: suethecake
+character_name: Ana Issek
+item_path: /obj/item/clothing/suit/storage/leather_jacket
+item_name: CSI jacket
+item_desc: A black jacket with the words 'CSI' printed in the back in bright, white letters.
+item_icon: rohitinjacket
+}
+
+{
+ckey: suethecake
+character_name: Ana Issek
+item_path: /obj/item/clothing/under
+item_name: retired uniform
+item_desc: A retired technician's uniform; a blouse and dark slacks, with the number eight embroidered on one sleeve, and the rank 'Chief Investigator' stitched into the other.
+item_icon: ana_uniform
 }
