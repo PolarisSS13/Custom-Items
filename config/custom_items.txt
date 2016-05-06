@@ -309,3 +309,22 @@ item_name: retired uniform
 item_desc: A retired technician's uniform; a blouse and dark slacks, with the number eight embroidered on one sleeve, and the rank 'Chief Investigator' stitched into the other.
 item_icon: ana_uniform
 }
+
+{
+ckey: dark_kota
+character_name: Kota Breaker
+item_path: /obj/item/clothing/under
+item_name: vintage officer uniform
+item_desc: A variation of the uniform worn by NanoTrasen security personnel. This one has a golden insignia of the NSS Eternal under the left collar.
+item_icon: kota2_uniform
+}
+
+{
+ckey: cdb
+character_name: Jane-Luc Price
+item_path: /obj/item/clothing/suit/armor/vest/alt
+item_name: RIS armored vest
+item_desc: A fairly standard looking Kevlar plate carrier bearing a small insignia and the name "Jane-Luc Price" on the breast.
+req_titles: Head of Security, Warden, Security Officer
+req_access: 1
+}
