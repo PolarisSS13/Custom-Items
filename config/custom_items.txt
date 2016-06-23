@@ -322,9 +322,27 @@ item_icon: kota2_uniform
 {
 ckey: cdb
 character_name: Jane-Luc Price
-item_path: /obj/item/clothing/suit/armor/vest/alt
+item_path: /obj/item/clothing/suit/storage/vest
 item_name: RIS armored vest
 item_desc: A fairly standard looking Kevlar plate carrier bearing a small insignia and the name "Jane-Luc Price" on the breast.
 req_titles: Head of Security, Warden, Security Officer
 req_access: 1
+}
+
+{
+ckey: king_of_baboons
+character_name: Cy King
+item_path: /obj/item/toy/figure
+item_name: Doc Brewski Action Figure
+item_desc: An action figure of the fictional character Doc Brewski from the Back to the Past trilogy, complete with a burping function. He looks very drunk...
+item_icon: doc_brewski
+}
+
+{
+ckey: sparklysheep
+character_name: Viola Az-Zawiyah
+item_path: /obj/item
+item_name: lucky rabbi's foot
+item_desc: A rather worn robotic leg with a small chain going through it to make it look like a necklace despite being too heavy.
+item_icon: luck_rabbi
 }
