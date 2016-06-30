@@ -353,7 +353,7 @@ character_name: Wade West
 item_path: /obj/item/device/kit/suit
 item_name: Wade's Arctic Voidsuit Kit
 item_desc: A customisation kit with all the parts needed to convert a suit.
-kit_name: Wade's Arctic Voidsuit
+kit_name: Wade's arctic 
 kit_desc: A voidsuit rated for extreme temperatures ranges on either side of the spectrum. It's looking a little ragtag. The nameplate reads 'K. Ramer'. Where'd Wade get this, anyway?
 kit_icon: seinfeld
 }
