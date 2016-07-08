@@ -170,12 +170,42 @@ item_icon: hollywoodjacket_open
 }
 
 {
-ckey: Sin4
+ckey: sin4
 character_name: Terra Fontaine
 item_path: /obj/item/clothing/under/rank/medical
 item_name: Red Cartoon Scrubs
 item_desc: Some red scrubs with cartoon characters on them.
 item_icon: redkidscrubs
+}
+
+{
+ckey: sin4
+character_name: Erin Corrio
+item_path: /obj/item/clothing/suit/storage/toggle/labcoat
+item_name: Red Cartoon Scrubs
+item_desc: A longer than usual pristine white labcoat.
+item_icon: sin4-labcoat_open
+req_titles: Medical Doctor, Surgeon, Chemist
+}
+
+{
+ckey: sin4
+character_name: Erin Corrio
+item_path: /obj/item/clothing/suit/storage/toggle/labcoat/cmo
+item_name: Long CMO Labcoat
+item_desc: A longer than usual CMO blue labcoat.
+item_icon: sin4-labcoat-cmo_open
+req_titles: Chief Medical Officer
+}
+
+{
+ckey: sin4
+character_name: Erin Corrio
+item_path: /obj/item/clothing/under/rank/medical/skirt
+item_name: Tailored Medical Skirt
+item_desc: A high quality white skirt with a blue medical patch on the back.
+item_icon: sin4-skirt
+req_titles: Medical Doctor, Surgeon, Chemist, Chief Medical Officer
 }
 
 {
@@ -327,7 +357,6 @@ item_name: RIS armored vest
 item_desc: A fairly standard looking Kevlar plate carrier bearing a small insignia and the name "Jane-Luc Price" on the breast.
 item_icon: RIS
 req_titles: Head of Security, Warden, Security Officer
-req_access: 1
 }
 
 {
@@ -357,4 +386,46 @@ item_desc: A customisation kit with all the parts needed to convert a suit.
 kit_name: Wade's arctic 
 kit_desc: A voidsuit rated for extreme temperatures ranges on either side of the spectrum. It's looking a little ragtag. The nameplate reads 'K. Ramer'. Where'd Wade get this, anyway?
 kit_icon: seinfeld
+}
+
+{
+ckey: inquisitorjohn
+character_name:	Ssegorath Esskor
+item_path: /obj/item/device/kit/suit
+item_name: JGR-NT Voidsuit Kit
+item_desc: A customisation kit with all the parts needed to convert a suit.
+kit_name: JGR-NT Voidsuit
+kit_desc:  An Engineering-approved voidsuit, resembling ancient battle armor. It brandishes a hide mantle over the right shoulder, and bares a painted Esskor clan shield over the left one. 'JGR-NT' is etched onto the collar of the voidsuit.
+kit_icon: inquisitorjohn-jgrnt
+additional_data: inquisitorjohn-jgrnt_light
+}
+
+{
+ckey: 1ce_princess
+character_name: Willow Wisp
+item_path: /obj/item/device/kit/suit
+item_name: Refurbished Voidsuit Kit
+item_desc: A customisation kit with all the parts needed to convert a suit.
+kit_name: Refurbished Voidsuit
+kit_desc: A voidsuit composed of parts both new and old. It seems to be fitted to certain specifications.
+kit_icon: iceprincess-refurb
+additional_data: iceprincess-refurb_light
+}
+
+{
+ckey: emgee
+character_name: Vincent Vargas
+item_path: /obj/item/weapon/storage/bible
+item_name: Leather Notebook
+item_desc: It's a large, black notebook bound in black leather. It has the initials V.V on it's cover with golden print. At a glance, it seems to be filled with rows of neat handwriting and the occasional rough sketch. On opening the notebook you see: https://docs.google.com/document/d/1MjUMhy8zZOy8qQFdDW3A-bruI8RLI-IL3eE7NnAs7RQ/edit?usp=sharing
+item_icon: emgee-notebook
+}
+
+{
+ckey: searif
+character_name: Salis Rehssas
+item_path: /obj/item/clothing/accessory
+item_name: Broken Shackles
+item_desc: A pair of crudely made iron shackles that have a number of small dents and cuts in them, the chains that connect them are shattered and hang to the side.
+item_icon: searif-shackles
 }
