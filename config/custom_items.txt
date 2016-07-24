@@ -171,7 +171,7 @@ item_icon: hollywoodjacket_open
 
 {
 ckey: sin4
-character_name: Terra Fontaine
+character_name: Terra Evans
 item_path: /obj/item/clothing/under/rank/medical
 item_name: Red Cartoon Scrubs
 item_desc: Some red scrubs with cartoon characters on them.
@@ -182,7 +182,7 @@ item_icon: redkidscrubs
 ckey: sin4
 character_name: Erin Corrio
 item_path: /obj/item/clothing/suit/storage/toggle/labcoat
-item_name: Red Cartoon Scrubs
+item_name: Long Labcoat
 item_desc: A longer than usual pristine white labcoat.
 item_icon: sin4-labcoat_open
 req_titles: Medical Doctor, Surgeon, Chemist
@@ -428,4 +428,31 @@ item_path: /obj/item/clothing/accessory
 item_name: Broken Shackles
 item_desc: A pair of crudely made iron shackles that have a number of small dents and cuts in them, the chains that connect them are shattered and hang to the side.
 item_icon: searif-shackles
+}
+
+{
+ckey: beepboopbeta
+character_name: Mason Fisher
+item_path: /obj/item/clothing/head/beret
+item_name: Crest Beret
+item_desc: A crisp black beret. It has a silver emblem with CREST inscribed. 
+item_icon: fisher_beret
+}
+
+{
+ckey: mimeinwheelchairisling
+character_name: Edwin Sallow
+item_path: /obj/item/weapon/storage/bible
+item_name: De Cultu Martis Dogma
+item_desc: A gold-lined, sacred holy book that's the centerpiece of Edwin's interpretation of Roman Gods depicting a yellow Bull on top of a red background, as well as a yellow "MARS" written below the bull.
+item_icon: edwin_bible
+}
+
+{
+ckey: mimeinwheelchairisling
+character_name: Edwin Sallow
+item_path: /obj/item/clothing/under/rank/chaplain
+item_name: Edwin's Garb
+item_desc: A crimson red ornamental garment made out of dyed cloth and wolf fur. Has a gold medallion attached to it.
+item_icon: edwin_chaplain
 }
