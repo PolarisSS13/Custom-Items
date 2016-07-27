@@ -82,11 +82,29 @@ item_desc: A crisp set of black scrubs. A name is embroidered onto the breast, "
 
 {
 ckey: yoshax
+character_name: Bellatrix Adams
+item_path: /obj/item/clothing/under/rank/medical
+item_name: Adams Corporation Scrubs
+item_icon: carmine
+item_desc: A crisp set of black scrubs. A name is embroidered onto the breast, "Dr. B. Adams." Above the name is a logo and the name of organisation, "Adams Corporation".
+}
+
+{
+ckey: yoshax
 character_name: Carmine Adams
 item_path: /obj/item/clothing/gloves/latex
-item_name: Adams Corporation Latex Gloves
+item_name: Adams Corporation Nitrile Gloves
 item_icon: carminegloves
-item_desc: A pair of black latex gloves.
+item_desc: A pair of black nitrile gloves.
+}
+
+{
+ckey: yoshax
+character_name: Bellatrix Adams
+item_path: /obj/item/clothing/gloves/latex
+item_name: Adams Corporation Nitrile Gloves
+item_icon: carminegloves
+item_desc: A pair of black nitrile gloves.
 }
 
 {
