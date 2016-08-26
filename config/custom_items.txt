@@ -342,7 +342,7 @@ item_icon: peatril
 
 {
 ckey: suethecake
-character_name: Ana Issek
+character_name: Ana Nagi
 item_path: /obj/item/clothing/suit/storage/leather_jacket
 item_name: CSI jacket
 item_desc: A black jacket with the words 'CSI' printed in the back in bright, white letters.
@@ -351,7 +351,7 @@ item_icon: rohitinjacket
 
 {
 ckey: suethecake
-character_name: Ana Issek
+character_name: Ana Nagi
 item_path: /obj/item/clothing/under
 item_name: retired uniform
 item_desc: A retired technician's uniform; a blouse and dark slacks, with the number eight embroidered on one sleeve, and the rank 'Chief Investigator' stitched into the other.
