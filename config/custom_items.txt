@@ -144,6 +144,24 @@ item_icon: macnamarrabible
 }
 
 {
+ckey: redstryker
+character_name: Luca Marcinelli
+item_path: /obj/item/clothing/ears/earmuffs/headphones
+item_name: UltimateSound Headphones
+item_desc: A pair of UltimateSound X-12 Gaming headphones. Highest quality!... Two years ago.
+item_icon: lucaheadphones_off
+}
+
+{
+ckey: redstryker
+character_name: Luca Marcinelli
+item_path: /obj/item/device
+item_name: Video Camera
+item_desc: A handheld video camera. It's got the Ward-Takahashi logo on the side of it.
+item_icon: lucacamera
+}
+
+{
 ckey: devildabeast
 character_name: Looping Song
 item_path: /obj/item/clothing/suit/storage/toggle/labcoat
@@ -497,10 +515,19 @@ item_icon: chii_outfit
 }
 
 {
-ckey: captainflapjack
-character_name: Beard Smith
+ckey: ruthdorfirehammer
+character_name: Abia Massoud
+item_path: /datum/gear/head/hijab
+item_name: Pink and Black Hijab
+item_desc: A Pink Hijab with black floral designs boarding the bottom.
+item_icon: abiahijab
+}
+
+{
+ckey: battlefieldcommander
+character_name: Mia Jayden
 item_path: /obj/item/clothing/under
-item_name: Hipster Getup
-item_desc: For when you need to go hyper-hipster
-item_icon: hipster_cfj
+item_name: Sleeveless Turtleneck
+item_desc: It's a non-descript, black turtleneck. It has the sleeves cut off, giving it a much more feminine look.
+item_icon: miaturtleneck
 }
