@@ -249,7 +249,7 @@ ckey: Bobhendly
 character_name: Tau-Rho Machina
 item_path: /obj/item/weapon/storage/briefcase
 item_name: Tau-Rho's Suitcase
-item_desc: Some dust bunnies and old crumpled paperwork can be found inside.
+item_desc: It has fresh looking leather surrounding its golden looking fittings and buckles. It gives of a sense of Professionalism, Confidence, Wealth, and Wisdom...Even if its user might not have any.
 item_icon: tau-rho_brief
 }
 
