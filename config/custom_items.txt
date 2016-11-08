@@ -517,7 +517,7 @@ item_icon: chii_outfit
 {
 ckey: ruthdorfirehammer
 character_name: Abia Massoud
-item_path: /datum/gear/head/hijab
+item_path: /obj/item/clothing/head/hijab
 item_name: Pink and Black Hijab
 item_desc: A Pink Hijab with black floral designs boarding the bottom.
 item_icon: abiahijab
