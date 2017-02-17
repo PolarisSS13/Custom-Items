@@ -565,3 +565,11 @@ item_path: /obj/item/toy/katana
 item_name: Ronin's Katana
 item_desc: It's a well maintained but dull looking katana.
 }
+
+{ckey: zacyril
+character_name: Ikya Railey
+item_path: /obj/item/clothing/accessory
+item_name: Heart Necklace
+item_desc: It's a small necklace with a heart-shaped garnet in the center. An engraving on the back reads, "I + C: 2560 - forever."
+item_icon: ikya_necklace
+}
