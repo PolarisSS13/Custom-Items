@@ -557,6 +557,7 @@ item_path: /obj/item/clothing/under/cheongsam
 item_name: Ronin's Kimono
 item_desc: A black and plain looking kimono.
 item_icon: ronin_kimono
+req_titles: Assistant
 }
 
 {ckey: silvertalismen
@@ -564,6 +565,7 @@ character_name: Ronin
 item_path: /obj/item/toy/katana
 item_name: Ronin's Katana
 item_desc: It's a well maintained but dull looking katana.
+req_titles: Assistant
 }
 
 {ckey: zacyril
