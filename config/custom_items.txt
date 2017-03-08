@@ -542,7 +542,8 @@ item_icon: carrie_officer
 req_titles: Security Officer
 }
 
-{ckey: kholdstare34
+{
+ckey: kholdstare34
 character_name: Carrie Railey
 item_path obj/item/clothing/under/rank/warden/skirt
 item_name: Modified Warden Jumpskirt
@@ -551,24 +552,25 @@ item_icon: carrie_warden
 req_titles: Warden
 }
 
-{ckey: silvertalismen
+{
+ckey: silvertalismen
 character_name: Ronin
 item_path: /obj/item/clothing/under/cheongsam
 item_name: Ronin's Kimono
 item_desc: A black and plain looking kimono.
 item_icon: ronin_kimono
-req_titles: Assistant
 }
 
-{ckey: silvertalismen
+{
+ckey: silvertalismen
 character_name: Ronin
 item_path: /obj/item/toy/katana
 item_name: Ronin's Katana
 item_desc: It's a well maintained but dull looking katana.
-req_titles: Assistant
 }
 
-{ckey: zacyril
+{
+ckey: zacyril
 character_name: Ikya Railey
 item_path: /obj/item/clothing/accessory
 item_name: Heart Necklace
