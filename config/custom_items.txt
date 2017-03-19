@@ -577,3 +577,12 @@ item_name: Heart Necklace
 item_desc: It's a small necklace with a heart-shaped garnet in the center. An engraving on the back reads, "I + C: 2560 - forever."
 item_icon: ikya_necklace
 }
+
+{
+ckey: furohman
+character_name: Fay Sullivan
+item_path: /obj/item/weapon/flame/lighter/zippo
+item_name: Graduation Lighter
+item_desc: It's a silver-plated lighter. An engraving on one side reads: "Fay Sullivan - Cybernetic Engineering (MEng) - University of Tharsis - Class of 2541 - May your light never die". On the other is an image of a large "41" in front of the symbol of the university. It looks well used.
+item_icon: faysullivan_lighter
+}
