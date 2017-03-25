@@ -586,3 +586,12 @@ item_name: Graduation Lighter
 item_desc: It's a silver-plated lighter. An engraving on one side reads: "Fay Sullivan - Cybernetic Engineering (MEng) - University of Tharsis - Class of 2541 - May your light never die". On the other is an image of a large "41" in front of the symbol of the university. It looks well used.
 item_icon: faysullivan_lighter
 }
+
+{
+ckey: schnayy
+character_name: Rezna Alnov
+item_path: /obj/item/clothing/suit/storage/toggle/bomber
+item_name: Rezna's Jacket
+item_desc: A typical bomber jacket with a pinup decal added to the back of a woman riding a rocket. Below it is written "Unit 46".
+item_icon: rezna_jacket
+}
