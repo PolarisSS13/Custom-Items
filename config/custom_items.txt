@@ -595,3 +595,12 @@ item_name: Rezna's Jacket
 item_desc: A typical bomber jacket with a pinup decal added to the back of a woman riding a rocket. Below it is written "Unit 46".
 item_icon: rezna_jacket
 }
+
+{
+ckey: edwardc120
+character_name: Szent Gyam
+item_path: /obj/item/clothing/accessory/poncho
+item_name: Hussar Winged Armor
+item_desc: A set of armor from ancient Terran days traditionally worn by horseback Calvary. Despite this, the set seams rather well kept and its metal shines. How this ended up here of all places is a question for the divine.
+item_icon: szentgyam_armor
+}
