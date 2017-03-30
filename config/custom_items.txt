@@ -535,7 +535,7 @@ item_icon: miaturtleneck
 {
 ckey: kholdstare34
 character_name: Carrie Railey
-item_path: obj/item/clothing/under/rank/security/skirt
+item_path: /obj/item/clothing/under/rank/security/skirt
 item_name: Modified Security Jumpskirt
 item_desc: Standard feminine fashion for Security Officers. It's made of sturdier material than the standard jumpskirts. This one appears to have been modified slightly.
 item_icon: carrie_officer
@@ -545,7 +545,7 @@ req_titles: Security Officer
 {
 ckey: kholdstare34
 character_name: Carrie Railey
-item_path obj/item/clothing/under/rank/warden/skirt
+item_path: /obj/item/clothing/under/rank/warden/skirt
 item_name: Modified Warden Jumpskirt
 item_desc: Standard feminine fashion for a Warden. It is made of sturdier material than standard jumpskirts. It has the word "Warden" written on the shoulders. This one appears to have been modified slightly.
 item_icon: carrie_warden
