@@ -604,3 +604,30 @@ item_name: Hussar Winged Armor
 item_desc: A set of armor from ancient Terran days traditionally worn by horseback Calvary. Despite this, the set seams rather well kept and its metal shines. How this ended up here of all places is a question for the divine.
 item_icon: szentgyam_armor
 }
+
+{
+ckey: anewbe
+character_name: Zane Keppel
+item_path: /obj/item/clothing/under/utility
+item_name: Charcoal Pants
+item_icon: zanekeppel_pants
+item_desc: A nice pair of charcoal pants, with an accompanying white shirt.
+}
+
+{
+ckey: anewbe
+character_name: Zane Keppel
+item_path: /obj/item/clothing/accessory/wcoat/gentleman
+item_name: Fine Vest
+item_icon: zanekeppel_vest
+item_desc: A well made grey vest.
+}
+
+{
+ckey: anewbe
+character_name: Zane Keppel
+item_path: /obj/item/clothing/suit/toggle/internalaffairs
+item_name: Charcoal Jacket
+item_icon: zanekeppel_jacket
+item_desc: A tailored charcoal suit jacket with gold buttons.
+}
