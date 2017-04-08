@@ -609,25 +609,16 @@ item_icon: szentgyam_armor
 ckey: anewbe
 character_name: Zane Keppel
 item_path: /obj/item/clothing/under/utility
-item_name: Charcoal Pants
+item_name: charcoal pants
 item_icon: zanekeppel_pants
-item_desc: A nice pair of charcoal pants, with an accompanying white shirt.
-}
-
-{
-ckey: anewbe
-character_name: Zane Keppel
-item_path: /obj/item/clothing/accessory/wcoat/gentleman
-item_name: Fine Vest
-item_icon: zanekeppel_vest
-item_desc: A well made grey vest.
+item_desc: A nice pair of charcoal pants, with an accompanying white shirt, red tie, and a well made grey vest.
 }
 
 {
 ckey: anewbe
 character_name: Zane Keppel
 item_path: /obj/item/clothing/suit/toggle/internalaffairs
-item_name: Charcoal Jacket
+item_name: charcoal jacket
 item_icon: zanekeppel_jacket
 item_desc: A tailored charcoal suit jacket with gold buttons.
 }
