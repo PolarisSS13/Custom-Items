@@ -608,7 +608,7 @@ item_icon: szentgyam_armor
 {
 ckey: anewbe
 character_name: Zane Keppel
-item_path: /obj/item/clothing/under/utility
+item_path: /obj/item/clothing/under/color/grey
 item_name: charcoal pants
 item_icon: zanekeppel_pants
 item_desc: A nice pair of charcoal pants, with an accompanying white shirt, red tie, and a well made grey vest.
