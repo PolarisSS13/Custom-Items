@@ -622,3 +622,12 @@ item_name: charcoal jacket
 item_icon: zanekeppel_jacket
 item_desc: A tailored charcoal suit jacket with gold buttons.
 }
+
+{
+ckey: aticius
+character_name: Aeci McMullen
+item_path: /obj/item/clothing/under/seromi
+item_name: light blue smock
+item_icon: aecimcmullen_smock
+item_desc: A light, small-sized amalgamation of a dress, a shirt and a loose fitting smock all woven together with synthetic, light blue fabric and orange highlights. "A. McMullen" is woven into the neck.
+}
