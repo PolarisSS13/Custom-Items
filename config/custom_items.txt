@@ -245,6 +245,16 @@ req_titles: Medical Doctor, Surgeon, Chemist, Chief Medical Officer
 }
 
 {
+ckey: sin4
+character_name: Sia Verat
+item_path: /obj/item/clothing/head/welding
+item_name: Custom Welding Helmet
+item_icon: sia_welding
+item_desc: A high quality welding helmet with a heart decal professionally applied.
+req_titles: Station Engineer, Atmospheric Technician, Chief Engineer
+}
+
+{
 ckey: Bobhendly
 character_name: Tau-Rho Machina
 item_path: /obj/item/weapon/storage/briefcase
