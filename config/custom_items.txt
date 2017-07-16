@@ -661,3 +661,12 @@ item_name: Heatsink Mask
 item_desc: Some kind of heatsink. It's got two hoses near the straps.
 item_icon: artemis_mask
 }
+
+{
+ckey: 
+character_name: Asta Ostergaard
+item_path: /obj/item/weapon/flame/lighter/zippo
+item_name: anarchist zippo
+item_desc: All you need to spark a revolution.
+item_icon: commiezippo
+}
