@@ -679,3 +679,22 @@ item_name: Bokken
 item_desc: A wooden sword.
 item_icon: takala_bokken
 }
+
+{
+ckey: elgeonmb
+character_name: Takala Charley
+item_path: /obj/item/clothing/accessory/armband
+item_name: EIO armband
+item_desc: An armband issued by Emergent Intelligence Oversight.
+item_icon: takala_armband
+}
+
+{
+ckey: wickedtemp
+character_name: Tempest Huxley
+item_path: /obj/item/clothing/glasses/hud/health
+item_name: Purple Health Scanner HUD
+item_desc: A purple Health Scanner HUD.
+item_icon: tempest_medhud
+req_titles: Medical Doctor, Chemist, Chief Medical Officer
+}
