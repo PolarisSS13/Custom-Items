@@ -704,6 +704,6 @@ ckey: electricb1ue
 character_name: Anton Sondergaard
 item_path: /obj/item/clothing/under/pcrc
 item_name: PCRC Service Uniform
-item_desc: A well-starched and cared for short-sleeved button-up shirt and black slacks. A neon blue holoidentifier on the right arm indicates it as being a uniform for Proxima Centauri Risk Control. The name tag says "Sondergaard".
+item_desc: A well-starched and cared for short-sleeved button-up shirt and black slacks. An electric blue holoidentifier on the left arm indicates it as being a uniform for Proxima Centauri Risk Control. The name tag says "Sondergaard".
 item_icon: anton_uniform
 }
