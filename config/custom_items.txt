@@ -72,6 +72,17 @@ item_desc: A standard geneticist's labcoat - this one looks a little worn. "Dr. 
 }
 
 {
+ckey: zekesulastin
+character_name: Nibras Khalidah
+item_path: /obj/item/device/kit/suit
+item_name: Heavily Refitted Voidsuit Kit
+item_desc: A customisation kit with all the parts needed to convert a suit.
+kit_name: Nibras refit kit
+kit_desc: A reinforced voidsuit with enhanced dexterity, for all of those fiddly bomb parts.
+kit_icon: zeke_nibras
+}
+
+{
 ckey: yoshax
 character_name: Carmine Adams
 item_path: /obj/item/clothing/under/rank/medical
@@ -628,11 +639,10 @@ req_titles: Resident, Bartender, Command Secretary, Quartermaster, Internal Affa
 {
 ckey: anewbe
 character_name: Zane Keppel
-item_path: /obj/item/clothing/suit/storage/toggle/bomber
-item_name: charcoal jacket
-item_icon: zanekeppel_jacket
-item_desc: A tailored charcoal suit jacket with gold buttons.
-req_titles: Internal Affairs Agent
+item_path: /obj/item/weapon/storage/backpack
+item_name: Surplus Backpack
+item_icon: zanekeppel_backpack
+item_desc: A black backpack with lots of pockets.
 }
 
 {
@@ -660,6 +670,24 @@ item_path: /obj/item/clothing/mask/gas/half
 item_name: Heatsink Mask
 item_desc: Some kind of heatsink. It's got two hoses near the straps.
 item_icon: artemis_mask
+}
+
+{
+ckey: kerbal22
+character_name: Artemis McClymonds
+item_path: /obj/item/clothing/head/beret
+item_name: Combat Medic beret
+item_desc: A white beret.
+item_icon: vg_beret
+}
+
+{
+ckey: kerbal22
+character_name: Artemis McClymonds
+item_path: /obj/item/clothing/mask/sterile
+item_name: White half-mask
+item_desc: A soft cloth mask.
+item_icon: vg_halfbala
 }
 
 {
