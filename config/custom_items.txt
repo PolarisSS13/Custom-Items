@@ -674,7 +674,7 @@ item_icon: artemis_mask
 
 {
 ckey: kerbal22
-character_name: Artemis McClymonds
+character_name: Vanessa Grayson
 item_path: /obj/item/clothing/head/beret
 item_name: Combat Medic beret
 item_desc: A white beret.
@@ -683,7 +683,7 @@ item_icon: vg_beret
 
 {
 ckey: kerbal22
-character_name: Artemis McClymonds
+character_name: Vanessa Grayson
 item_path: /obj/item/clothing/mask/sterile
 item_name: White half-mask
 item_desc: A soft cloth mask.
@@ -734,4 +734,22 @@ item_path: /obj/item/clothing/under/pcrc
 item_name: PCRC Service Uniform
 item_desc: A well-starched and cared for short-sleeved button-up shirt and black slacks. An electric blue holoidentifier on the left arm indicates it as being a uniform for Proxima Centauri Risk Control. The name tag says "Sondergaard".
 item_icon: anton_uniform
+}
+
+{
+ckey: alabasterTempest
+character_name: Blake Evans
+item_path: /obj/item/clothing/suit/storage/flannel
+item_name: Worn Brown Jacket
+item_desk: A clean, soft, and very thoroughly worn jacket of brown jean material. There's a few patches of darker spots where there used to be patches.
+item_icon: blakejacket
+}
+
+{
+ckey: alabasterTempest
+character_name: Blake Evans
+item_path: /obj/item/clothing/accessory/scarf/red
+item_name: Hand Knitted Scarf
+item_desk: A long red scarf. While it's a bit lumpy, it's obvious someone has put a lot of thought and care into it.
+item_icon: blakescarf
 }
