@@ -741,7 +741,7 @@ ckey: alabasterTempest
 character_name: Blake Evans
 item_path: /obj/item/clothing/suit/storage/flannel
 item_name: Worn Brown Jacket
-item_desk: A clean, soft, and very thoroughly worn jacket of brown jean material. There's a few patches of darker spots where there used to be patches.
+item_desc: A clean, soft, and very thoroughly worn jacket of brown jean material. There's a few patches of darker spots where there used to be patches.
 item_icon: blakejacket
 }
 
@@ -750,6 +750,6 @@ ckey: alabasterTempest
 character_name: Blake Evans
 item_path: /obj/item/clothing/accessory/scarf/red
 item_name: Hand Knitted Scarf
-item_desk: A long red scarf. While it's a bit lumpy, it's obvious someone has put a lot of thought and care into it.
+item_desc: A long red scarf. While it's a bit lumpy, it's obvious someone has put a lot of thought and care into it.
 item_icon: blakescarf
 }
