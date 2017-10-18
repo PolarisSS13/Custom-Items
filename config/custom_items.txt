@@ -684,7 +684,7 @@ item_icon: vg_beret
 {
 ckey: kerbal22
 character_name: Vanessa Grayson
-item_path: /obj/item/clothing/mask/sterile
+item_path: /obj/item/clothing/mask/surgical
 item_name: White half-mask
 item_desc: A soft cloth mask.
 item_icon: vg_halfbala
