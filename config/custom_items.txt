@@ -753,3 +753,21 @@ item_name: Hand Knitted Scarf
 item_desc: A long red scarf. While it's a bit lumpy, it's obvious someone has put a lot of thought and care into it.
 item_icon: blakescarf
 }
+
+{
+ckey: Your_Neighbor_Dave
+character_name: Sev
+item_path: /obj/item/clothing/accessory/jacket
+item_name: Leopard windbreaker
+item_desc: A somewhat gaudy, soft-shell jacket produced by a European sporting goods company; just looking at it makes you feel like it's 1988.
+item_icon: sev_windbreaker
+}
+
+{
+ckey: Your_Neighbor_Dave
+character_name: Sev
+item_path: /obj/item/clothing/accessory/sweater
+item_name: Rudi sweatshirt
+item_desc: A light gray, cotton sweatshirt brandishing the logo of a European sporting goods company. Seems like something a chav would wear.
+item_icon: sev_sweatshirt
+}
