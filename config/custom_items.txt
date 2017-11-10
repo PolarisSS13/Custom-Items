@@ -771,3 +771,25 @@ item_name: Rudi sweatshirt
 item_desc: A light gray, cotton sweatshirt brandishing the logo of a European sporting goods company. Seems like something a chav would wear.
 item_icon: sev_sweatshirt
 }
+
+{
+ckey: LorenLuke
+character_name: Thirty Five
+item_path: /obj/item/clothing/glasses/fakesunglasses/aviator
+item_name: green aviators
+item_icon: aviator_eng
+item_desc: A stylish pair of aviator sunglasses. The lenses appear to be tinted slightly green.
+}
+
+
+{
+ckey: Misiek1001
+character_name: Nathaniel Keller
+item_path: /obj/item/device/kit/suit
+item_name: Sleek Voidsuit Kit
+item_desc: A customisation kit with all the parts needed to convert a suit.
+kit_name: sleek voidsuit refit kit
+kit_desc: A voidsuit with a sleek design. The color scheme makes it clear that it is intended for shaft miners.
+kit_icon: keller_kit
+req_title: Shaft Miner
+}
