@@ -790,6 +790,7 @@ item_name: Sleek Voidsuit Kit
 item_desc: A customisation kit with all the parts needed to convert a suit.
 kit_name: sleek voidsuit refit kit
 kit_desc: A voidsuit with a sleek design. The color scheme makes it clear that it is intended for shaft miners.
-kit_icon: keller_kit
+kit_icon: keller
 req_title: Shaft Miner
 }
+
