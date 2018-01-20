@@ -728,15 +728,6 @@ req_titles: Medical Doctor, Chemist, Chief Medical Officer
 }
 
 {
-ckey: electricb1ue
-character_name: Anton Sondergaard
-item_path: /obj/item/clothing/under/pcrc
-item_name: PCRC Service Uniform
-item_desc: A well-starched and cared for short-sleeved button-up shirt and black slacks. An electric blue holoidentifier on the left arm indicates it as being a uniform for Proxima Centauri Risk Control. The name tag says "Sondergaard".
-item_icon: anton_uniform
-}
-
-{
 ckey: alabasterTempest
 character_name: Blake Evans
 item_path: /obj/item/clothing/suit/storage/flannel
@@ -794,3 +785,70 @@ kit_icon: keller
 req_title: Shaft Miner
 }
 
+{
+ckey: MistyLuminescence
+character_name: Sana'rrali Riyyarlir
+item_path: /obj/item/clothing/glasses/hud/health
+item_name: medical HUD visor
+item_icon: sana_visor
+item_desc: A refurbished but sturdy Medical HUD visor. 'Gazing Heavenward Forever - T.E.R.T.' is inscribed on the side of the frame. This one comes with a flower pin!
+}
+
+{
+ckey: MistyLuminescence
+character_name: Sana'rrali Riyyarlir
+item_path: /obj/item/device/kit
+item_name: white hypospray modification kit
+item_desc: A case for a DeForest hypospray. Actual hypospray not included.
+kit_name: white hypospray
+kit_desc: A customised DeForest MkII hypospray - it's white with blue highlights. There's a small red heart on a chain attached to it.
+kit_icon: sana_hypo
+additional_info: /obj/item/weapon/reagent_containers/hypospray
+}
+
+{
+ckey: Wickedtemp
+character_name: Tempest Huxley
+item_path: /obj/item/clothing/mask/gas/plaguedoctor
+item_name: Huxley's mask
+item_icon: tempest_mask
+item_desc: A modernized version of the classic design, this mask will not only filter out phoron but can also be connected to an air supply. This one is purple and has a pink lens.
+}
+
+{
+ckey: Wickedtemp
+character_name: Tempest Huxley
+item_path: /obj/item/clothing/accessory/poncho/roles/cloak
+item_name: purple cloak
+item_icon: tempest_cloak
+item_desc: An elaborate purple cloak made from comfortable, hazard-resistant nanoweave. The gold collar has 'Health is the greatest of blessings' written on the inside lining.
+}
+
+{
+ckey: electricb1ue
+character_name: Anton Sondergaard
+item_path: /obj/item/clothing/under/pcrc
+item_name: PCRC Cold Weather Uniform
+item_desc:  A thick and warm grey pattern camouflage uniform. It has some bright, electric blue highlights at the shoulders and the hips. The nameplate says "Sondergaard".
+item_icon: anton_winter
+}
+
+{
+ckey: electricb1ue
+character_name: Anton Sondergaard
+item_path: /obj/item/clothing/gloves/ring
+item_name: Riyyarlir family ring
+item_desc: A ring passed down through the Riyyarlir family for generations. It's made of high-quality silver, with a single emerald surrounded by tiny sapphires.
+item_icon: anton_ring
+}
+
+{
+ckey: Potato1234
+character_name: Larisa Hunter
+item_path: /obj/item/device/kit/suit
+item_name: explorer suit modification kit
+item_desc: A customisation kit with all the parts needed to convert an explorer suit.
+kit_name: modified explorer
+kit_desc: A modified explorer suit fitted with various extensions and custom spray paint. It has a kitty face and reddish highlights.
+kit_icon: larisa_explorer
+}
