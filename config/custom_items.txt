@@ -803,7 +803,7 @@ item_desc: A case for a DeForest hypospray. Actual hypospray not included.
 kit_name: white hypospray
 kit_desc: A customised DeForest MkII hypospray - it's white with blue highlights. There's a small red heart on a chain attached to it.
 kit_icon: sana_hypo
-additional_info: /obj/item/weapon/reagent_containers/hypospray
+additional_data: /obj/item/weapon/reagent_containers/hypospray
 }
 
 {
