@@ -852,3 +852,21 @@ kit_name: modified explorer
 kit_desc: A modified explorer suit fitted with various extensions and custom spray paint. It has a kitty face and reddish highlights.
 kit_icon: larisa_explorer
 }
+
+{
+ckey: wrongendoftherainbow
+character_name: Ealamassi
+item_path: /obj/item/clothing/under/pants
+item_name: Primitive Clothing
+item_icon: eala_body
+item_desc: This clothing is little more than a loincloth that looks fit for a rather thin being and a necklace with dull, scratched gems adorning it.
+}
+
+{
+ckey: wrongendoftherainbow
+character_name: Ealamassi
+item_path: /obj/item/clothing/head/that
+item_name: Primitive Head-Dress
+item_icon: eala_head
+item_desc: It looks to be a slightly flexible cap made of furs, with blue strands of fur coming out the back. Three dull, scratched gems adorn the front.
+}
