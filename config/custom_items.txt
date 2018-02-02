@@ -852,3 +852,14 @@ kit_name: modified explorer
 kit_desc: A modified explorer suit fitted with various extensions and custom spray paint. It has a kitty face and reddish highlights.
 kit_icon: larisa_explorer
 }
+
+{
+ckey: elgeonmb
+character_name: Victoria Auto
+item_path: /obj/item/device/kit
+item_name: translator modification kit
+item_desc: A little hairbow in a box, with a slot to fit in a universal translator.
+kit_name: concealed translator
+kit_desc: A universal translator artfully tucked into a little red hairbow.
+kit_icon: vic_hairbow
+}
