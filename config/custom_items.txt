@@ -854,6 +854,17 @@ kit_icon: larisa_explorer
 }
 
 {
+ckey: schnayy
+character_name: Dahlia
+item_path: /obj/item/device/kit/suit
+item_name: hoodie modification kit
+item_desc: A customisation kit with all the tools needed to convert a hoodie.
+kit_name: spider coat
+kit_desc: A purple winter coat with a design of a spider's face on the hood. The name 'Dahlia' is written on the inside tag.
+kit_icon: coatdahlia
+}
+
+{
 ckey: elgeonmb
 character_name: Victoria Auto
 item_path: /obj/item/device/kit
