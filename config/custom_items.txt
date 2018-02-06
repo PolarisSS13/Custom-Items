@@ -862,6 +862,7 @@ item_desc: A little hairbow in a box, with a slot to fit in a universal translat
 kit_name: concealed translator
 kit_desc: A universal translator artfully tucked into a little red hairbow.
 kit_icon: vic_hairbow
+additional_data: /obj/item/device/universal_translator/ear
 }
 
 {
