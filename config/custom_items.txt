@@ -870,3 +870,44 @@ item_name: Primitive Head-Dress
 item_icon: eala_head
 item_desc: It looks to be a slightly flexible cap made of furs, with blue strands of fur coming out the back. Three dull, scratched gems adorn the front.
 }
+
+ckey: schnayy
+character_name: Dahlia
+item_path: /obj/item/device/kit/suit
+item_name: hoodie modification kit
+item_desc: A customisation kit with all the tools needed to convert a hoodie.
+kit_name: spider coat
+kit_desc: A purple winter coat with a design of a spider's face on the hood. The name 'Dahlia' is written on the inside tag.
+kit_icon: coatdahlia
+}
+
+{
+ckey: Itelinee
+character_name: Tenimaschi Reitiri
+item_path: /obj/item/clothing/accessory/poncho/roles/cloak
+item_name: small Aether Atmospherics cloak
+item_icon: reitiricloak
+item_desc: A Teshari garment adapted for use by the smaller employees. Comes packaged with a crooked Aether Atmospherics pin on the front.
+}
+
+{
+ckey: elgeonmb
+character_name: Victoria Auto
+item_path: /obj/item/device/kit
+item_name: translator modification kit
+item_desc: A little hairbow in a box, with a slot to fit in a universal translator.
+kit_name: concealed translator
+kit_desc: A universal translator artfully tucked into a little red hairbow.
+kit_icon: vic_hairbow
+additional_data: /obj/item/device/universal_translator/ear
+}
+
+{
+ckey: misterlayne
+character_name: Haruhi Kra'kanra Enai-Kyaka
+item_path: /obj/item/clothing/suit/storage/toggle/labcoat/emt
+item_name: Black EMT Labcoat
+item_desc: It's a black and red Emergency Medical Technician lab coat. It has the name 'Haruhi K.' tailored onto the inner neck tag.
+item_icon: har_blackemtcoat
+}
+
