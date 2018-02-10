@@ -867,7 +867,7 @@ kit_icon: coatdahlia
 {
 ckey: Itelinee
 character_name: Tenimaschi Reitiri
-item_path: /obj/item/clothing/accessory/poncho/roles/cloak
+item_path: /obj/item/clothing/suit/storage/toggle/labcoat
 item_name: small Aether Atmospherics cloak
 item_icon: reitiricloak
 item_desc: A Teshari garment adapted for use by the smaller employees. Comes packaged with a crooked Aether Atmospherics pin on the front.
