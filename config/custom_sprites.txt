@@ -1,7 +1,6 @@
 ckey-state
-danny220:T1N
+danny220-T1N-Tin Can
 mechoid-Acheron 7*-Baron-Lethe 6*-P.T.S.D.
-danny220-Tin Can
 sparklysheep-Honeybun
 silvertalismen-RC-2357
 anewbe-Kerberos
@@ -13,3 +12,4 @@ bluesp34r-Wojtek
 zuperned-Abbadon
 wrongendoftherainbow-Lasis
 battlefieldcommander-Mercurie
+atermonera-Cynth i0n
