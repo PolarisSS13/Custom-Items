@@ -911,3 +911,33 @@ item_desc: It's a black and red Emergency Medical Technician lab coat. It has th
 item_icon: har_blackemtcoat
 }
 
+{
+ckey: Kyoshiku
+character_name: Sierra Anderson
+item_path: /obj/item/device/kit/suit
+item_name: explorer suit modification kit
+item_desc: A customisation kit with all the parts needed to convert an explorer suit.
+kit_name: Sif Arctic Explorer Suit
+kit_desc: Explorer suit variant more suited to Sivian terrain.
+kit_icon: sierra_explorer
+}
+
+{
+ckey: Mangled
+character_name: Drifter
+item_path: /obj/item/clothing/accessory/poncho
+item_name: Tattered Poncho
+item_desc:  A tattered poncho almost as old as its owner. It's seen better days.
+item_icon: drifter_poncho
+}
+
+
+{
+ckey: MerekBlack
+character_name: Merek Black
+item_path: /obj/item/clothing/accessory/poncho/roles/cloak
+item_name: Tajaran Cloak
+item_desc: This cloak was specifically made to be worn for certain formal Tajaran ceremonies. It is black with an ice silver accentuated lining, and is modified to be comfortable in cooler climates.
+item_icon: merek_cloak
+}
+
