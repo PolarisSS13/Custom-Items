@@ -871,6 +871,7 @@ item_icon: eala_head
 item_desc: It looks to be a slightly flexible cap made of furs, with blue strands of fur coming out the back. Three dull, scratched gems adorn the front.
 }
 
+{
 ckey: schnayy
 character_name: Dahlia
 item_path: /obj/item/device/kit/suit
