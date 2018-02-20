@@ -929,7 +929,7 @@ character_name: Drifter
 item_path: /obj/item/clothing/accessory/poncho
 item_name: Tattered Poncho
 item_desc:  A tattered poncho almost as old as its owner. It's seen better days.
-item_icon: drifter_poncho
+item_icon: drifterponcho
 }
 
 
