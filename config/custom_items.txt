@@ -935,7 +935,7 @@ item_icon: drifterponcho
 {
 ckey: Misiek1001
 character_name: Ezekiel Anderson
-item_path: /obj/item/clothing/mask/bandana
+item_path: /obj/item/clothing/mask/balaclava
 item_name: Bandages
 item_desc: Extremely white looking bandages that seem to be rolled in the shape that would cover both the head and face, they look quite new.
 item_icon: misiek_bandages
