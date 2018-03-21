@@ -942,6 +942,44 @@ item_icon: misiek_bandages
 }
 
 {
+ckey: Misiek1001
+character_name: Ezekiel Anderson
+item_path: /obj/item/clothing/suit/storage/forensics/blue
+item_name: Blue Jacket
+item_desc:  A jacket in the color of aqua blue, the letters on the back appear to be white and spell out 'EIO'. The badge on the upper left side to the jacket appears to be standard looking.
+item_icon: jacketEzekiel
+req_titles: Head of Security, Warden, Security Officer, Detective
+}
+
+{
+ckey: Asillyn00b
+character_name: Sydney Ward
+item_path: /obj/item/clothing/head/pilot
+item_name: Old Pilot Helmet
+item_desc:  An old helmet of the pilot variant this one features an orange opaque visor with white metal, there are two inverted orange-gold chevrons on the forehead. On the neck guard in the back "B.Ward" is engraved.
+item_icon: helmetSydney
+req_titles: Explorer, Chief Engineer, Engineer, Atmospheric Technician
+}
+
+{
+ckey: Nairok
+character_name: Valary Wright
+item_path: /obj/item/clothing/accessory/poncho
+item_name: Worn Duster
+item_desc:  A sturdy, plain leather duster, lacking any form of pockets. This one seems to have been through a lot of use.
+item_icon: dusterValary
+}
+
+{
+ckey: Nairok
+character_name: Valary Wright
+item_path: /obj/item/clothing/head/cowboy_hat/wide
+item_name: Slouch Hat
+item_desc:  A synthleather slouch hat, decorated with with three long fangs
+item_icon: hatValary
+}
+
+{
 ckey: MerekBlack
 character_name: Merek Black
 item_path: /obj/item/clothing/accessory/poncho/roles/cloak
