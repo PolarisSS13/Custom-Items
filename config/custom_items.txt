@@ -988,3 +988,24 @@ item_desc: This cloak was specifically made to be worn for certain formal Tajara
 item_icon: merek_cloak
 }
 
+{
+ckey: AncientV25
+character_name: Alan McCoy
+item_path: /obj/item/device/kit
+item_name: Heavy Armor Vest modification kit
+item_desc: A customisation kit with all the parts needed to convert a heavy vest.
+kit_name: PCRC Heavy Armor Vest
+kit_desc: A heavy kevlar plate carrier belonging to Proxima Centauri Risk Control with webbing attached. This one has a PCRC crest clipped to the chest.
+kit_icon: mccoy_vest
+}
+
+{
+ckey: AncientV25
+character_name: Alan McCoy
+item_path: /obj/item/device/kit
+item_name: Helmet modification kit
+item_desc: A customisation kit with all the parts needed to convert a helmet.
+kit_name: PCRC Helmet
+kit_desc: A helmet with 'PRIVATE SECURITY' printed on the back in cyan lettering.
+kit_icon: mccoy_helmet
+}
