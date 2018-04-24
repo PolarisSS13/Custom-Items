@@ -997,6 +997,8 @@ item_desc: A customisation kit with all the parts needed to convert a heavy vest
 kit_name: PCRC Heavy Armor Vest
 kit_desc: A heavy kevlar plate carrier belonging to Proxima Centauri Risk Control with webbing attached. This one has a PCRC crest clipped to the chest.
 kit_icon: mccoy_vest
+req_titles: Head of Security, Warden, Security Officer, Detective
+additional_data: /obj/item/clothing/suit/storage/vest/heavy
 }
 
 {
@@ -1008,4 +1010,6 @@ item_desc: A customisation kit with all the parts needed to convert a helmet.
 kit_name: PCRC Helmet
 kit_desc: A helmet with 'PRIVATE SECURITY' printed on the back in cyan lettering.
 kit_icon: mccoy_helmet
+req_titles: Head of Security, Warden, Security Officer, Detective
+additional_data: /obj/item/clothing/head/helmet
 }
