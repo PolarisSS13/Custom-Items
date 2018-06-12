@@ -709,15 +709,6 @@ item_icon: takala_bokken
 }
 
 {
-ckey: elgeonmb
-character_name: Takala Charley
-item_path: /obj/item/clothing/accessory/armband
-item_name: EIO armband
-item_desc: An armband issued by Emergent Intelligence Oversight.
-item_icon: takala_armband
-}
-
-{
 ckey: wickedtemp
 character_name: Tempest Huxley
 item_path: /obj/item/clothing/glasses/hud/health
@@ -729,7 +720,7 @@ req_titles: Medical Doctor, Chemist, Chief Medical Officer
 
 {
 ckey: alabasterTempest
-character_name: Blake Evans
+character_name: Blake Keppel
 item_path: /obj/item/clothing/suit/storage/flannel
 item_name: Worn Brown Jacket
 item_desc: A clean, soft, and very thoroughly worn jacket of brown jean material. There's a few patches of darker spots where there used to be patches.
@@ -738,7 +729,7 @@ item_icon: blakejacket
 
 {
 ckey: alabasterTempest
-character_name: Blake Evans
+character_name: Blake Keppel
 item_path: /obj/item/clothing/accessory/scarf/red
 item_name: Hand Knitted Scarf
 item_desc: A long red scarf. While it's a bit lumpy, it's obvious someone has put a lot of thought and care into it.
@@ -1012,4 +1003,13 @@ kit_desc: A helmet with 'PRIVATE SECURITY' printed on the back in cyan lettering
 kit_icon: mccoy_helmet
 req_titles: Head of Security, Warden, Security Officer, Detective
 additional_data: /obj/item/clothing/head/helmet
+}
+
+{
+ckey: thezblah
+character_name: Ziyaad Amari
+item_path: /obj/item/weapon/book/codex/lore/news
+item_name: GameGirl
+item_desc: No not that kind, this one actually plays games. A mass produced handheld games console.
+item_icon: ziyaadGameGirl
 }
