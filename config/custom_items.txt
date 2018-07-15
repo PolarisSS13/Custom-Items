@@ -1013,3 +1013,23 @@ kit_icon: mccoy_helmet
 req_titles: Head of Security, Warden, Security Officer, Detective
 additional_data: /obj/item/clothing/head/helmet
 }
+
+{
+ckey: Serithi
+character_name: Arja Nazkiin
+item_path: /obj/item/device/kit/suit
+item_name: explorer suit modification kit
+item_desc: A customisation kit with all the parts needed to convert an explorer suit.
+kit_name: fancy explorer suit
+kit_desc: A modified explorer suit with a cheongsam, light gloves, and a new hood better-suited for Tajaran heads.
+kit_icon: arja_explorer
+}
+
+{
+ckey: DasIrrlicht
+character_name: Arianna Braun
+item_path: /obj/item/device/radio
+item_name: old radio
+item_desc: An old FM radio that probably has seen better times. This one is modified to broadcast on Station-Frequencies.
+item_icon: arianna_radio
+}
