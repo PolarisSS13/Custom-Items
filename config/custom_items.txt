@@ -926,7 +926,7 @@ item_icon: drifterponcho
 {
 ckey: Misiek1001
 character_name: Ezekiel Anderson
-item_path: /obj/item/clothing/mask/balaclava
+item_path: /obj/item/clothing/head/pin
 item_name: Bandages
 item_desc: Extremely white looking bandages that seem to be rolled in the shape that would cover both the head and face, they look quite new.
 item_icon: misiek_bandages
@@ -1012,4 +1012,24 @@ item_path: /obj/item/weapon/book/codex/lore/news
 item_name: GameGirl
 item_desc: No not that kind, this one actually plays games. A mass produced handheld games console.
 item_icon: ziyaadGameGirl
+}
+
+{
+ckey: Serithi
+character_name: Arja Nazkiin
+item_path: /obj/item/device/kit/suit
+item_name: explorer suit modification kit
+item_desc: A customisation kit with all the parts needed to convert an explorer suit.
+kit_name: fancy explorer suit
+kit_desc: A modified explorer suit with a cheongsam, light gloves, and a new hood better-suited for Tajaran heads.
+kit_icon: arja_explorer
+}
+
+{
+ckey: DasIrrlicht
+character_name: Arianna Braun
+item_path: /obj/item/device/radio
+item_name: old radio
+item_desc: An old FM radio that probably has seen better times. This one is modified to broadcast on Station-Frequencies.
+item_icon: arianna_radio
 }
