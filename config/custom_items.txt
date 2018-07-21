@@ -1020,7 +1020,7 @@ character_name: Arja Nazkiin
 item_path: /obj/item/device/kit/suit
 item_name: explorer suit modification kit
 item_desc: A customisation kit with all the parts needed to convert an explorer suit.
-kit_name: fancy explorer suit
+kit_name: fancy explorer
 kit_desc: A modified explorer suit with a cheongsam, light gloves, and a new hood better-suited for Tajaran heads.
 kit_icon: arja_explorer
 }
