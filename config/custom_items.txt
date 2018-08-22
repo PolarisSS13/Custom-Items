@@ -691,6 +691,18 @@ item_icon: vg_halfbala
 }
 
 {
+ckey: kerbal22
+character_name: Morgan Grayson
+item_path: /obj/item/device/kit/paint
+item_name: Gygax customisation kit
+item_desc: A customisation kit with all the parts needed to turn a Gygax into an "IceStrider" model.
+kit_name: Gygax Modkit 'IceStrider'
+kit_desc: A unique modification of the Gygax to suit Sif's unique conditions.
+kit_icon: kerbal22IceStrider
+additional_data: gygax
+}
+
+{
 ckey: skaterboybob
 character_name: Asta Ostergaard
 item_path: /obj/item/weapon/flame/lighter/zippo
