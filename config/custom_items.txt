@@ -1033,3 +1033,10 @@ item_name: old radio
 item_desc: An old FM radio that probably has seen better times. This one is modified to broadcast on Station-Frequencies.
 item_icon: arianna_radio
 }
+
+{
+ckey: Mwahahahaha
+character_name: Ashley Paynter
+item_path: /obj/item/clothing/under/rank/roboticist
+req_titles: Roboticist
+}
