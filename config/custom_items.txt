@@ -983,15 +983,6 @@ item_icon: hatValary
 }
 
 {
-ckey: MerekBlack
-character_name: Merek Black
-item_path: /obj/item/clothing/accessory/poncho/roles/cloak
-item_name: Tajaran Cloak
-item_desc: This cloak was specifically made to be worn for certain formal Tajaran ceremonies. It is black with an ice silver accentuated lining, and is modified to be comfortable in cooler climates.
-item_icon: merek_cloak
-}
-
-{
 ckey: AncientV25
 character_name: Alan McCoy
 item_path: /obj/item/device/kit
