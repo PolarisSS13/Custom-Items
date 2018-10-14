@@ -538,7 +538,7 @@ item_icon: chii_outfit
 {
 ckey: ruthdorfirehammer
 character_name: Abia Massoud
-item_path: /obj/item/clothing/head/hijab
+item_path: /obj/item/clothing/head/nun_hood
 item_name: Pink and Black Hijab
 item_desc: A Pink Hijab with black floral designs boarding the bottom.
 item_icon: abiahijab
@@ -1066,4 +1066,13 @@ kit_name: Teshari Radiation Hood
 kit_desc: A special hood to protect from radiation, fitted for Teshari. This one is comparable small and the label reads 'Ashema'. Still made with Lead, continue to not eat the insulation.
 kit_icon: ashema_radhood
 additional_data: /obj/item/clothing/head/radiation
+}
+
+{
+ckey: TheFlyestNihilist
+character_name: Ricardo LaCroix
+item_path: /obj/item/clothing/accessory
+item_name: Obsidian Locket
+item_desc: This necklace is made of a reflective black metal, with flecks of white catching the light every now and then. It seems to resemble a black swan with it's wings outstretched to take flight. Engraved on the back are the words "It's a long way home".
+item_icon: ricardo_locket
 }
