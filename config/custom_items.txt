@@ -1076,3 +1076,14 @@ item_name: Obsidian Locket
 item_desc: This necklace is made of a reflective black metal, with flecks of white catching the light every now and then. It seems to resemble a black swan with it's wings outstretched to take flight. Engraved on the back are the words "It's a long way home".
 item_icon: ricardo_locket
 }
+
+{
+ckey: aimlessAnalyst
+character_name: Lohkev
+item_path: /obj/item/device/kit/suit
+item_name: Demolitions Modkit
+item_desc: A customisation kit with all the parts needed to convert a suit. This one has a little 'EOD' plate on it.
+kit_name: Demolitions
+kit_desc: A T-visored environment suit with full-body coverage, seemingly designed for Promethean use. By the decals and hazard colouring, it's made for working with explosives and demolitions. "0262/FLICKER" is engraved into a small plate to the left of the chest.
+kit_icon: seinfeld
+}
