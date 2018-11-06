@@ -1085,5 +1085,5 @@ item_name: Demolitions Modkit
 item_desc: A customisation kit with all the parts needed to convert a suit. This one has a little 'EOD' plate on it.
 kit_name: Demolitions
 kit_desc: A T-visored environment suit with full-body coverage, seemingly designed for Promethean use. By the decals and hazard colouring, it's made for working with explosives and demolitions. "0262/FLICKER" is engraved into a small plate to the left of the chest.
-kit_icon: seinfeld
+kit_icon: aimlessFlicker
 }
