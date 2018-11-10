@@ -1087,3 +1087,12 @@ kit_name: Demolitions
 kit_desc: A T-visored environment suit with full-body coverage, seemingly designed for Promethean use. By the decals and hazard colouring, it's made for working with explosives and demolitions. "0262/FLICKER" is engraved into a small plate to the left of the chest.
 kit_icon: aimlessFlicker
 }
+
+{
+ckey: aimlessAnalyst
+character_name: Needle
+item_path: /obj/item/clothing/accessory/poncho/roles/cloak
+item_name: regal cloak
+item_icon: needle_cloak
+item_desc: An old, well-worn yet immaculately-kept cloak, coloured in a royal shade of purple with gold trim. The fabric, while sturdy, allows for flowing movement, and it has a high, pointed collar.
+}
