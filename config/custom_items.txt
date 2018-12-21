@@ -1096,3 +1096,14 @@ item_name: regal cloak
 item_icon: needle_cloak
 item_desc: An old, well-worn yet immaculately-kept cloak, coloured in a royal shade of purple with gold trim. The fabric, while sturdy, allows for flowing movement, and it has a high, pointed collar.
 }
+
+{
+ckey: naidh
+character_name: Wayfinder
+item_path: /obj/item/device/kit/suit
+item_name: hoodie modification kit
+item_desc: A customisation kit with all the tools needed to convert a hoodie.
+kit_name: s&r pathfinder`s winter coat
+kit_desc: A lightweight surplus winter jacket made from synthetic materials. This one has bands marking the wearer as Search and Rescue personnel on the sleeves. There's a label inside of the jacket that identifies the owner as one 'Elhlin W. McCormick'.
+kit_icon: coatwayfinder
+}
