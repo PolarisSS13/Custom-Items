@@ -1107,3 +1107,12 @@ kit_name: s&r pathfinder`s winter coat
 kit_desc: A lightweight surplus winter jacket made from synthetic materials. This one has bands marking the wearer as Search and Rescue personnel on the sleeves. There's a label inside of the jacket that identifies the owner as one 'Elhlin W. McCormick'.
 kit_icon: coatwayfinder
 }
+
+{
+ckey: 1ce_princess
+character_name: Eclipse
+item_path: /obj/item/clothing/accessory/poncho/roles/cloak
+item_name: synthetic wings
+item_icon: eclipsewings
+item_desc: A pair of strikingly colored insectile wings, made of some sort of thin polymer with bits of faux fuzz. Has a plug to hook into a synthetic, allowing them to flutter a bit, and making it quite uncomfortable for non-synthetics to wear.
+}
