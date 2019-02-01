@@ -1107,3 +1107,12 @@ kit_name: s&r pathfinder`s winter coat
 kit_desc: A lightweight surplus winter jacket made from synthetic materials. This one has bands marking the wearer as Search and Rescue personnel on the sleeves. There's a label inside of the jacket that identifies the owner as one 'Elhlin W. McCormick'.
 kit_icon: coatwayfinder
 }
+
+{
+ckey: schnayy
+character_name: I.R.I.S.
+item_path: /obj/item/clothing/under
+item_name: bodycon dress
+item_desc: A black bodycon dress with a sheer midsection. Seems fancy.
+item_icon: iris_dress
+}
