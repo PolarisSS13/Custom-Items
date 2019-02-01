@@ -1116,3 +1116,12 @@ item_name: synthetic wings
 item_icon: eclipsewings
 item_desc: A pair of strikingly colored insectile wings, made of some sort of thin polymer with bits of faux fuzz. Has a plug to hook into a synthetic, allowing them to flutter a bit, and making it quite uncomfortable for non-synthetics to wear.
 }
+
+{
+ckey: schnayy
+character_name: I.R.I.S.
+item_path: /obj/item/clothing/under
+item_name: bodycon dress
+item_desc: A black bodycon dress with a sheer midsection. Seems fancy.
+item_icon: iris_dress
+}
