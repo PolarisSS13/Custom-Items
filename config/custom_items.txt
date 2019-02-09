@@ -1125,3 +1125,12 @@ item_name: bodycon dress
 item_desc: A black bodycon dress with a sheer midsection. Seems fancy.
 item_icon: iris_dress
 }
+
+{
+ckey: kartagrafi
+character_name: Devon Emerson
+item_path: /obj/item/device/radio/headset
+item_name: noise-cancelling earphones
+item_desc: These custom-made earphones muffle the noise around you partially, making loud sounds much more bearable. It was almost as if they were made specially for someone sound sensitive. A microphone conveniently sticks out from one half, typically connected to the radio.
+item_icon: noise_earphones
+}
