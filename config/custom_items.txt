@@ -1134,3 +1134,27 @@ item_name: noise-cancelling earphones
 item_desc: These custom-made earphones muffle the noise around you partially, making loud sounds much more bearable. It was almost as if they were made specially for someone sound sensitive. A microphone conveniently sticks out from one half, typically connected to the radio.
 item_icon: noise_earphones
 }
+
+{
+ckey: Psolus
+character_name: Edaeya Zofa
+item_path: /obj/item/device/kit
+item_name: Radiation Hood Modification Kit
+item_desc: A customisation kit with all the parts needed to turn a Radiation Hood into a Teshari-sized hood. Kind of useless without the suit one.
+kit_name: Teshari Radiation Hood
+kit_desc: A special hood to protect from radiation, fitted for Teshari. This one is comparable small and the label got cut off. Still made with Lead, continue to not eat the insulation.
+kit_icon: ashema_radhood
+additional_data: /obj/item/clothing/head/radiation
+}
+
+{
+ckey: Psolus
+character_name: Edaeya Zofa
+item_path: /obj/item/device/kit
+item_name: Radiation Suit Modification Kit
+item_desc: A customisation kit with all the parts needed to turn a Radiation Suit into a Teshari-sized suit.
+kit_name: Teshari Radiation Suit
+kit_desc: A special suit to protect from radiation, fitted for Teshari. This one is comparable small and the label got cut off. Still made with Lead, continue to not eat the insulation.
+kit_icon: ashema_radsuit
+additional_data: /obj/item/clothing/suit/radiation
+}
