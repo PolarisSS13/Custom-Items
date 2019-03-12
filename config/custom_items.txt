@@ -1162,7 +1162,7 @@ additional_data: /obj/item/clothing/suit/radiation
 {
 ckey: Psolus
 character_name: Edaeya Zofa
-item_path: /obj/item/clothing/under/seromi/smock
+item_path: /obj/item/clothing/under/seromi
 item_name: Orange Teshari Dress
 item_desc: An orange dress fitted for teshari. This one in particular seems tailored for someone extra small.
 item_icon: zofa_dress
