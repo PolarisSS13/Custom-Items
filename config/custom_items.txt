@@ -1191,6 +1191,6 @@ ckey: aimlessAnalyst
 character_name: Trailcutter-7
 item_path: /obj/item/clothing/under/color/grey
 item_name: Weathered Flightsuit
-item_desc: This is TC's jacket and flight-suit, both items dating all the way back to the beginning of his (known) service with Haven. It's an incredibly important keepsake that reminds him of what he strives to be in the air.
+item_desc: This old flight-suit has no identifying patches, save a brilliant spark behind a hawk's head, beneath it marked, 'OLGR'. It is in the colours of Haven, a small synthetic faction allied to Shelf. By the embroidered name on the inside of the garment's high neck, this one belongs to "Olgr 2".
 item_icon: trailcutter_jumpsuit
 }
