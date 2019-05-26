@@ -1176,3 +1176,21 @@ item_name: Rad Cohesion Suit
 item_desc: A simple black cohesion suit with a radiation trefoil patterned on the chest. There's a small tag on the back neckline that reads. 'I am Epidote. If lost, return to Jonah.'
 item_icon: epidote_cohesion
 }
+
+{
+ckey: aimlessAnalyst
+character_name: Trailcutter-7
+item_path: /obj/item/clothing/suit/storage/toggle/labcoat
+item_name: Weathered Flight Jacket
+item_desc: This old, well-maintaned flight jacket still has a harness on it. The patches, weathered and worn, indicate no name or rank. The most notable patch is a brilliant spark behind a hawk's head, beneath it marked, 'OLGR'. It is in the colours of Haven, a small synthetic faction allied to Shelf. 
+item_icon: trailcutter_jacket
+}
+
+{
+ckey: aimlessAnalyst
+character_name: Trailcutter-7
+item_path: /obj/item/clothing/under/color/grey
+item_name: Weathered Flightsuit
+item_desc: This old flight-suit has no identifying patches, save a brilliant spark behind a hawk's head, beneath it marked, 'OLGR'. It is in the colours of Haven, a small synthetic faction allied to Shelf. By the embroidered name on the inside of the garment's high neck, this one belongs to "Olgr 2".
+item_icon: trailcutter_jumpsuit
+}
