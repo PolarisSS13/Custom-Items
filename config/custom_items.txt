@@ -1201,7 +1201,7 @@ character_name: Lupo
 item_path: /obj/item/device/kit
 item_name: drone identification armband kit
 kit_name: drone identification armband (Lupo)
-kit_desc: A identification issued and authorized by the EIO, indicating that the owner is a Drone Intelligence. Drones are mandated to carry a identification within SolGov space, by law. This one belongs to belongs to Lupo, a B-Class Intelligence.
+kit_desc: A identification issued and authorized by the EIO, indicating that the owner is a Drone Intelligence. Drones are mandated to carry a identification within SolGov space, by law. This one belongs to Lupo, a B-Class Intelligence.
 kit_icon: lupoband
 additional_data: /obj/item/clothing/accessory/permit/drone
 }
