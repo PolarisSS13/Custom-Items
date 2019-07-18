@@ -1205,3 +1205,12 @@ kit_desc: A identification issued and authorized by the EIO, indicating that the
 kit_icon: lupoband
 additional_data: /obj/item/clothing/accessory/permit/drone
 }
+
+{
+ckey: FalseShepardPie
+character_name: Nova Cyprett
+item_path: /obj/item/clothing/mask/gas/plaguedoctor
+item_name: Modern Plague Mask
+item_icon: nova_mask
+item_desc: An oddly menacing gas mask.
+}
