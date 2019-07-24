@@ -876,7 +876,7 @@ item_desc: It looks to be a slightly flexible cap made of furs, with blue strand
 
 {
 ckey: schnayy
-character_name: Dahlia
+character_name: Dahlia Korakov
 item_path: /obj/item/device/kit/suit
 item_name: hoodie modification kit
 item_desc: A customisation kit with all the tools needed to convert a hoodie.
