@@ -1223,3 +1223,25 @@ item_name: Palfrey`s Ribbon
 item_desc: A simple, satin ribbon intended for tying into hair.
 item_icon: palfrey_ribbon
 }
+
+{
+ckey: Greenjoe
+character_name: Arata Esenia
+item_path: /obj/item/device/kit/suit
+item_name: explorer suit modification kit
+item_desc: A customisation kit with all the parts needed to convert an explorer suit.
+kit_name: black padded cloak
+kit_desc: A sleek cloak, padded for the protection of the wearer.
+kit_icon: tech_hcloak_bo
+}
+
+{
+ckey: Lorilili
+character_name: Arata Ticete
+item_path: /obj/item/device/kit/suit
+item_name: explorer suit modification kit
+item_desc: A customisation kit with all the parts needed to convert an explorer suit.
+kit_name: red padded cloak
+kit_desc: A sleek cloak, padded for the protection of the wearer.
+kit_icon: tech_hcloak_rg
+}
