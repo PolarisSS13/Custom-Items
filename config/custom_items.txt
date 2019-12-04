@@ -1232,7 +1232,7 @@ item_name: explorer suit modification kit
 item_desc: A customisation kit with all the parts needed to convert an explorer suit.
 kit_name: black padded cloak
 kit_desc: A sleek cloak, padded for the protection of the wearer.
-kit_icon: tech_hcloak_bo
+kit_icon: tesh_hcloak_bo
 }
 
 {
@@ -1243,5 +1243,5 @@ item_name: explorer suit modification kit
 item_desc: A customisation kit with all the parts needed to convert an explorer suit.
 kit_name: red padded cloak
 kit_desc: A sleek cloak, padded for the protection of the wearer.
-kit_icon: tech_hcloak_rg
+kit_icon: tesh_hcloak_rg
 }
