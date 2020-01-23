@@ -161,3 +161,126 @@ CATEGORY: Reference
 					</body>
 					</html>
 					"})
+
+///Managing an Understaffed Medbay by Solar Medical Association
+
+/obj/item/weapon/book/bundle/custom_library/reference/ManagingUnderstaffedMedbay
+	name = "Managing an Understaffed Medbay"
+	desc = "A hardbound book titled \"Managing an Understaffed Medbay\" by the Solar Medical Association."
+	description_info = "This book is titled \"Managing an Understaffed Medbay\" by Solar Medical Association. It covers basic medical procedures when medical is understaffed."
+
+	icon_state = "book7"
+	origkey = "Schnayy"
+	author = "Solar Medical Association"
+
+	pages = list({"<html>
+					<head>
+					<style>
+					h1 {color: #FFFFFF; font-family: Palatino Linotype; border-style: double solid; border-color: #FFFFFF; background-color: #2e3642;}
+					body {background-color: #bbbdc4;}
+					</style>
+					</head>
+					<body>
+					<center><h1>Managing an Understaffed Medbay</h1><br><br><br><br>by the Solar Medical Association</center>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					h1 {font-family: Lucida Sans Unicode; font-size: 17px; color: #43494F; border-style: solid; border-color: #43494F; padding: 10px;}
+					h2 {font-family: Lucida Sans Unicode; font-size: 15px; color: #43494F;}
+					body {font-family: Verdana; font-size: 12px; color: ; background-color: #F6F6F1;}
+					.borders {border-style: double; border-color: #43494F; padding: 7px;}
+					</style>
+					</head>
+
+					<body>
+					<center>
+					<h1>Managing an Understaffed Medbay</h1>
+					</center>
+					<hr>
+					It's not uncommon for smaller medical bays to be understaffed. In the case of emergencies, this can turn preventable death into a casualty. Fortunately, there are a few ways for non-medical personnel, or unequipped ones, to make up for lack of staff.<br>
+					In this referential textbook, several of these lifesaving techniques will be covered.
+					<hr>
+					<center><h2>Table of Contents</h2>
+					<div class="borders">
+					I. Quick Chemistry<br><br>
+					II. Buying Time<br><br>
+					III. Internal Bleeding and Blood Loss<br><br>
+					IV. Brain Damage and Breathing
+					</div>
+					</center>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					h1 {font-family: Palatino Linotype; font-size: 15px; color: #43494F;}
+					body {font-family: Verdana; font-size: 12px; color: ; background-color: #F6F6F1;}
+					.borders {border-style: double; border-color: #43494F; padding: 7px;}
+					</style>
+					</head>
+					<body>
+					<center><h1>-I-<br>Quick Chemistry</h1></center>
+					<div class="borders">
+					In the event of an understaffed medbay, you may find that your typical medicinal tools are lacking. Do not fret: all medical bays are stocked with the supplies for lesser trained personnel to get what they need.<br><br>
+					<b>Tricordrazine</b> is a vital cure-all for any nurse, paramedic, or doctor. Each medical dispenser is supplied with bottles of dylovene and inaprovaline -- which happen to be just what you need to mix it. Take one of the standard beakers and pour in half and half of each bottle and you'll have enough to last you through a standard shift.<br><br>
+					<b>Bicaridine</b> is also extremely important, and will be covered more in chapter three. This, too, can be easily mixed with dispenser supplies. Once again, take one of your beakers and pour in half a bottle of inaprovaline. Next, take one of your standard carbon pill bottles. Typically these are in 15 unit pills. Two carbon pills should supply you with a full bottle of bicaridine. This will be a lifesaver in emergency situations.
+					</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					h1 {font-family: Palatino Linotype; font-size: 15px; color: #43494F;}
+					body {font-family: Verdana; font-size: 12px; color: ; background-color: #F6F6F1;}
+					.borders {border-style: double; border-color: #43494F; padding: 7px;}
+					</style>
+					</head>
+					<body>
+					<center><h1>-II-<br>Buying Time</h1></center>
+					<div class="borders">
+					Hopefully you'll have the supplies prepared for whatever is thrown at you, but sometimes the medical bay isn't quite in order. In these situations, you may feel overwhelmed. Take a deep breath and remember the tools at your disposal.<br><br>
+					Every medical bay should be supplied with at least one sleeper. These are useful for more than chemical administration. There are settings for dialysis (removing harmful blood contents), a stomach pump (removing harmful stomach contents), and most importantly a stasis setting.<br><br>
+					If your patient is critical and you are unprepared -- be it short on medicine or waiting on cryo to cool -- you can enable the stasis feature to slow down the body processes. In emergencies, a complete stasis will dramatically affect this. Chemicals will process extremely slow, but injuries will be slower to build up as well.<br><br>
+					A few extra minutes can mean everything.
+					</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					h1 {font-family: Palatino Linotype; font-size: 15px; color: #43494F;}
+					body {font-family: Verdana; font-size: 12px; color: ; background-color: #F6F6F1;}
+					.borders {border-style: double; border-color: #43494F; padding: 7px;}
+					</style>
+					</head>
+					<body>
+					<center><h1>-III-<br>Internal Bleeding &amp; Blood Loss</h1></center>
+					<div class="borders">
+					External injuries and bleeding are fairly easy to mend. But what next? Blood is in short supply, and there are plenty of instances it is not easily accessible. Fortunately, there are other ways to encourage blood production in the body. A typical protein shake will get the woozy back on their feet -- and if not that, iron pills will serve, too.<br><br>
+					Complications arise when the bleeding is internal, however. If there is no surgeon on shift and you are unable to get a clotting supply crate stocked in your medical bay, there's ways to stop the bleeding. Bicaridine in large doses -- specifically higher than 30 units -- will slow and eventually stop internal bleeding. This should be cautiously administered, and dylovene should be on hand to combat the overdose.
+					</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					h1 {font-family: Palatino Linotype; font-size: 15px; color: #43494F;}
+					body {font-family: Verdana; font-size: 12px; color: ; background-color: #F6F6F1;}
+					.borders {border-style: double; border-color: #43494F; padding: 7px;}
+					</style>
+					</head>
+					<body>
+					<center><h1>-IV-<br>Brain Damage &amp; Breathing</h1></center>
+					<div class="borders">
+					You can be too late to prevent the worst damage. Lack of oxygen to the brain can severely damage it -- and if it's heavily damaged, breathing becomes harder, making more damage occur. A life saver can be an express cargo delivery of a <b>portable patient stabilizer</b>. Pull the mask from the stabilizer onto the patient and it will automatically enable. The oxygen supply should keep their condition from worsening -- do not be alarmed if they continue to gasp. The stabilizer is lightweight and portable, meaning the patient does not need to be bedridden until trained staff arrive.
+					</div>
+					</body>
+					</html>
+					"})
