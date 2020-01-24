@@ -191,7 +191,6 @@ CATEGORY: Fiction
 					div {text-indent: 30pt;}
 					</style>
 					</head>
-					</style>
 					<body>
 					<div>"Gadroc, where are you?" Carne shouted. "You can come out now, she didn’t follow us." Gadroc looked around and slowly stepped out from behind a tree that didn't even come close to consealing him whatsoever.</div>
 					<div>"I... I don’t know if it worked, Carne," the boy said nervously.</div>
@@ -200,9 +199,229 @@ CATEGORY: Fiction
 					<div>"It’s beautiful, Carne," Gadroc went on.</div>
 					<div>"Keep it, kid," the blacksmith said with a smile. "You need it more than I do. Let’s go home."</div>
 					<div>Gadroc had gold poop for a week.</div>
-					</br>
-					</br>
-					<h1><b>Fin.<b></h1>
+					<br>
+					<br>
+					<h1><b>Fin.</b></h1>
+					</body>
+					</html>
+					"})
+
+/// The Chronicles of Margata: Volume II by Molly Highlander
+
+/obj/item/weapon/book/bundle/custom_library/fiction/chroniclesofmargatavol2
+	name = "The Chronicles of Margata: Volume II"
+	desc = "A hardbound book titled \"The Chronicles of Margata: Volume II\" by Molly Highlander."
+	description_info = "This book is titled \"The Chronicles of Margata: Volume I\" by Molly Highlander. There's a blurb on the back: <br>\
+						In this second volume in the series of the Chronicles of Margata, a humble baker recounts the tale of the day he started his career: a story of love, loss, and a boulder."
+
+	title = "The Chronicles of Margata: Volume II"
+	icon_state = "chronicles2_battlefieldcommander"
+	origkey = "battlefieldcommander"
+	author = "Molly Highlander"
+
+	pages = list({"<html>
+					<head>
+					<style>
+					p.font1 {font-family: MS Serif; font-size: 18px; color: #DFD35C;}
+					p.font2 {font-family: Times New Roman; font-size: 14px; color: #DFD35C;}
+					body {font-family: Times New Roman; background-color: #660022; text-align:center;}
+					.border1 {font-family: Times New Roman; font-size: 14px; color: #DFD35C; line-height: 1.0; border-style: double; border-color: #DFD35C; border-width: 5px; padding: 15px;}
+					.border2 {border-style: solid; border-color: #DFD35C; border-width: 3px; background-color: #990044;}
+					</style>
+					</head>
+					<body>
+					<div class="border1">
+					<div class="border2">
+					<p class="font2">
+						<i>The</i><br>
+					</p>
+					<p class="font1">
+						<b>CHRONICLES</b><br>
+					</p>
+					<p class="font2">
+						<i>of</i><br>
+					</p>
+					<p class="font1">
+						<b>MARGATA</b><br>
+					</p>
+					<font size="3">VOLUME II</font>
+					<br><br><br><br>
+					<font size="4">MOLLY<br>HIGHLANDER</font>
+					<br><br><br>
+					</div>
+					</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family: Palatino Linotype; color: #311E12; background-color: #F7F5EA; text-align: center;}
+					h1 {font-size: 300%; margin-top: 20px;}
+					h2 {margin-top: 100px;}
+					</style>
+					</head>
+					<body>
+					<h1>The Chronicles of Margata</h1>
+					Volume II: The Battle at Savage Keep
+					<h2>By Molly Highlander</h2>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family: Palatino Linotype; color: #311E12; background-color: #F7F5EA; text-align: center;}
+					p.margin {margin-top: 150px;}
+					</style>
+					</head>
+					<body>
+					<p class="margin">
+					<em>For Monica.<br>One day I would like to write something<br>more romantic to dedicate to you.<br>Sadly, today is not that day.</em>
+					</p>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family:Palatino Linotype; color: #311E12; font-size: 14px; background-color: #F7F5EA; margin: 15px;}
+					div {text-indent: 30px;}
+					</style>
+					</head>
+					<body>
+					<div>People say that you should be careful what you wish for, because you just might get it. In Margata, this is exactly as awesome as it sounds. If you wish for an awesome flamethrower, you get an awesome flamethrower. And who doesn’t want an awesome flamethrower? I know I want an awesome flamethrower. Wide-scale flamethrower use is the number one cause of the destruction of villages in Margata.</div>
+					<div>The bustling city of Blain was busy with business. That's some alliteration my friends, because fuck you. One building in particular seemed to be vibrant with patrons talking and laughing and having an all over good time. This building was the B-Bar. As you may know, the B-Bar is Blain’s most popular tavern. The key difference between the B-Bar and normal taverns, however, is that instead of serving ale, they served bread. That’s what the B in B-Bar stands for. Incredible.</div>
+					<div>In his natural place behind the bar stood Slim, nicknamed so for his slim figure,  which he decidedly did not have. It was ironic, or something. Whatever it is the kids say these days. Slim was a bald man with a thick red beard. He wore an apron which tended to be covered in flour. It read, "Kiss the Baker." He had the eyes of a man who had seen very much, and a gut of a man who had eaten very much. He was a happy man above all, and his passion was being the barbaker for the B-Bar and telling tales of his many exploits to his interested patrons.</div>
+					<div>"Hhh Slhrm," a young elven man said with his mouth full of sourdough.</div>
+					<div>"Don’t talk with your mouth full, mate," Slim scolded him. The elf finished what was in his mouth and swallowed.</div>
+					<div>"What’s your secret?" the elf said. Slim raised an eyebrow.</div>
+					<div>"Secret?" replied the barbaker. "I don't keep secrets, other than the combination to the money box, and I ain't givin' ye that."</div>
+					<div>"No, no, not that. Your bread. You seem to make it lightning quick and it’s always cooked just right."</div>
+					<div>"Ah, that," Slim said with a twinkle in his eye that said that a story 'bout to get told, yo. "That’s no secret. I’d be glad to tell ya." Many people heard this and pulled their stools up to the counter. Slim continued to make and serve bread seemingly without effort as he began to speak. There was a ripple-y flashback effect as I seamlessly changed the narrative point of view to one in first-person.</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family:Palatino Linotype; color: #311E12; font-size: 14px; background-color: #F7F5EA; margin: 15px;}
+					div {text-indent: 30px;}
+					</style>
+					</head>
+					<body>
+					<div>It was late one summer night, and it was storming something awful. A crack of lightning woke me up, it couldn’t have been more than a couple of miles away from my house. I sat up in my bed covered in sweat. I calmed down, realizing it was just a storm. I laid back down to jump right back up again in fear. I had turned to hold my sweetheart Moira for comfort, to find nothing but a sheet of paper in her place. I grabbed it and looked it over hastily. Someone had cracked an egg onto the paper and poured flour all over it. In orange crayon in the corner was written "SAVAGE KEEP" very crudely. She’d been kidnapped, and clearly someone wanted beef with me. I crumpled up the paper in one hand and glared dramatically. Egg dribbled down my arm, so I went to wash my hands.</div>
+					<div>After getting dressed and preparing myself, I grabbed my trusty battle-axe guitar, which I have lovingly named Sworkbane, and shredded some sick riffs on it for a while. Then I left my house, mounted my horse Francisco and started down the eastern road.</div>
+					<div>I had been traveling for several hours. The sun had come up, and it was about noon. I stopped to rest Francisco and have a light lunch. There was a good sized rock that seemed comfortable enough to sit on, so I did, and ate my sandwich. My delicious sandwich with ham, some nice crunchy lettuce, a single, perfectly juicy tomato slice, a slice of the most savory cheese, all between two lightly toasted pieces of the softest bread I had made myself the day prior. I felt daring that day, and put a fried egg on it too. It was delectable, and just talking about it reminds me of how hungry I am right now.</div>
+					<div>"So, is, uh, is that a good sandwich?" came a voice out of nowhere. It caught me off guard. I looked around and said, "What? Who’s there?" I saw no one.</div>
+					<div>The voice spoke again. "I wish I could eat a sandwich like that, but uh, I don’t really have a stomach. Or a digestive system. Or a mouth. So that’s cool I guess." I looked around, panicked, until I realized that the voice was coming from beneath me, from the rock I was sitting on. I jumped off quickly.</div>
+					<div>"Are you...a talking rock?" I said to the rock incredulously.</div>
+					<div>"Have been since the day I was born," the rock replied. I briefly considered what a rock being born looked like, and it didn't take me long to abandon that particular train of thought. I apologized to the rock for sitting on it.</div>
+					<div>"It’s alright, your butt’s pretty comfortable," it said. I elected not to respond to that.</div>
+					<div>I asked, "What is your name, my sedimentary friend?"</div>
+					<div>"Sir Henry Rockington XIV Esq.," Henry replied.</div>
+					<div>"You’re a knight?"</div>
+					<div>"Sure am. But I fell off my horse."</div>
+					<div>"And because you’re a rock you can’t move?"</div>
+					<div>"You got it!"</div>
+					<div>"Do you have a sword or anything?"</div>
+					<div>"Of course! It’s right here!" Suddenly and without warning, there was a sword sticking out of the rock. It was not there before, but the pommel and much of the handle was embedded within rock as if it'd been like that ages.</div>
+					<div>"That is a...very nice blade you have there," I told the rock.</div>
+					<div>"Thanks, I made it myself!" Henry said.</div>
+					<div>"That is astoundingly impressive."</div>
+					<div>"So, where are you headed?"</div>
+					<div>"To Savage Keep. My lover has been kidnapped and I’m headed to rescue her."</div>
+					<div>"Hey, you want some help with that? I’d be glad to give you a hand." We were both quiet for a moment.</div>
+					<div>"I see, that’s funny because you’re a rock and you don’t have--"</div>
+					<div>"That was a little joke for y’all, I’m just a rock, I don’t have hands."</div>
+					<div>"...right. Let’s get going." I grabbed the rock and put it on the front of Francisco’s saddle and we continued down the road.</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family:Palatino Linotype; color: #311E12; font-size: 14px; background-color: #F7F5EA; margin: 15px;}
+					div {text-indent: 30px;}
+					</style>
+					</head>
+					<body>
+					<div>After a few days' travel, we came upon the looming stone structure of Savage Keep. The sky almost seemed to grow darker as we approached, despite it being midday.</div>
+					<div>"Wow, that’s pretty spooky, isn’t it?" said Henry.</div>
+					<div>"Yes, it’s very intimidating," I replied.</div>
+					<div>"You have to go in there to find your girlfriend?"</div>
+					<div>"I do."</div>
+					<div>"Are you scared?"</div>
+					<div>"Extremely. Let’s go." We entered the keep. Henry was strapped to my back with some rope. Immediately upon entering, we were beset upon by two skeletons.</div>
+					<div>"Halt!" said the first skeleton. "What is your sandwich here?"</div>
+					<div>"I’m sorry, my what?" I asked, confused.</div>
+					<div>"I’m sorry," explained the second skeleton, "it’s his first day on the job, he means your business."</div>
+					<div>"I’m here for my girlfriend," I said, gripping the handle of my axe, "and I won’t let anything get in my way."</div>
+					<div>"We’ll never let you get to our ravioli!" said the first skeleton threateningly. I glanced at the second skeleton for clarification.</div>
+					<div>"He means Reginald, our evil warlock master who kidnapped your girlfriend," it explained.</div>
+					<div>"Your evil warlock master’s name is Reginald?" I asked. That was easily the most powerful and intimidating warlock name I’d ever heard.</div>
+					<div>"Yeah, and he’s going to defenestrate you!" the first skeleton shouted.</div>
+					<div>"He probably meant 'annihilate,' but the guy might just do that too, actually," the second skeleton added.</div>
+					<div>"Right, well," I began as I started to walk past the two, "Thank you for the help gentlemen. I’ll be seeing Reginald now. Keep it real, eh?"</div>
+					<div>"Yeah, no problem!" the first skeleton said. The second skeleton added, "You too!" I had made it about halfway down the hall before they realized their mistake. They both shouted, "Hey wait!" and charged at me with their swords drawn. I drew my axe, ready to fight back, but Henry said, "Let me handle this." Against my will, I did a front flip where I stood, and when I landed, the skeletons were cut down, their bones clattering to the floor with xylophone noises. I felt the weight of Henry’s sword on my back before it was suddenly gone.</div>
+					<div>"Let’s go," Henry said, much more fiercely than I would have expected from a rock of his gentle nature. Too stunned to question what just happened, I continued further into the Savage Keep.</div>
+					<div>As we traveled the maze-like halls, Henry and I made conversation. We both laughed at the bleak atmosphere of the grey stone walls that sometimes oozed. We also pondered the name of the keep. Why was it called Savage Keep? What did they keep here? Savages? Just as we laughed over this, a man wearing dirty rags wielding a knife came running at us from around a corner, screaming, "I’m plum crazy! Look out! I’ll eat your toes!" I tripped the savage and he died. That answered that question. We continued without further interruption.</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family:Palatino Linotype; color: #311E12; font-size: 14px; background-color: #F7F5EA; margin: 15px;}
+					div {text-indent: 30px;}
+					</style>
+					</head>
+					<body>
+					<div>We reached the central chamber of the keep. The walls were draped with flowing red cloth, on fire in several places for no discernible reason beyond the fact that it really added to the dramatic feel to the room. The floor was soft and had a bit of give, almost as if it was made of…</div>
+					<div>"Rye," said Henry, answering my unspoken question. In the center of the room was a throne made of various rolls and baguettes. On it sat Reginald the warlock. In Reginald’s hand was a glowing red orb, pulsing gently. To his left was seated Moira. She was strapped to a wooden chair with doughy ropes.</div>
+					<div>"Go help Moira, Henry!" I said as I threw him towards my lover. Henry did nothing because he was just a rock and had no hands. I drew Sworkbane and stepped towards Reginald.</div>
+					<div>"Are you the one they call Slim?" spoke the warlock.</div>
+					<div>"Yes, and I’ve come to take back Moira!" I answered.</div>
+					<div>"No. You have come to meet your demise!" With that, the warlock laughed raised the orb. "As you know, the prophecy dictates-"</div>
+					<div>"Wait," I interrupted, "What prophecy? I haven’t heard of any bleedin' prophecy."</div>
+					<div>"You haven’t heard the prophecy? It’s on the back of every bag of Divine Goddess brand flour!" Reginald shouted.</div>
+					<div>"I, uh, haven’t exactly bought any flour recently."</div>
+					<div>"What? You are the Chosen One of the Goddess of Bread! I can’t believe you haven’t read the prophecy!"</div>
+					<div>"Sorry, mate. Maybe you wouldn’t mind filling me in?"</div>
+					<div>"Basically you’re the Chosen One and I have to kill you to become the High Overlord of All Bread."</div>
+					<div>"Ah, I see," I said. We both nodded.</div>
+					<div>The warlock suddenly shouted, "DIE!" He held the orb high and shot a bolt of bread lightning at me. I suppose you could call it breadning. I dived out of the way, but the breadning struck Sworkbane, charging it with breadtricity. I played a few sick riffs on the axe-tar, which made it shoot bread lightning back at Reginald. Both of us jumped and dived around the bread room, as we fired delicious fiber-filled thunder back and forth. It was a stalemate staler than a week old baguette.</div>
+					<div>Meanwhile, Moira broke free of her ropes, seeing as they were just normal dough, and had taken up Henry’s sword. With a fierce cry, she charged Reginald, sword in the air. She dealt a mortal blow to the warlock. With his dying act, Reginald hit her with a bolt of breadning.</div>
+					<div>"Noooooooooo!" screamed Reginald. "Fuuuuuuuuck!" Both Moira and Reginald collapsed on the ground. I ran to Moira, but a blinding flash of light knocked me over. When I got back up, she had risen into the air and changed drastically. Her face was subdued and calm. Her golden hair floated gently around her, and she wore robes made of flatbread. The orb floated slowly up to her and she took it. It turned from a fiery red to a sky blue.</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family:Palatino Linotype; color: #311E12; font-size: 14px; background-color: #F7F5EA; margin: 15px;}
+					h1 {font-family:Palatino Linotype; color: #311E12; font-size: 17px; text-align: center;}
+					div {text-indent: 30px;}
+					</style>
+					</head>
+					<body>
+					<div>"Hello, Slim," she said. A chorus started singing, seemingly repeating what Moira said. It was hard to tell, but I think one of them might have just been singing the word "shit" instead.</div>
+					<div>"M-Moira?" I stuttered. I couldn’t believe my eyes. "What happened to you?"</div>
+					<div>"The Goddess of Bread saved me and made me her mortal vessel," she explained. "You are the Chosen One, Slim. It is your destiny to take up the Orb of the Goddess and keep it safe." She released the orb and it slowly floated into my hands.</div>
+					<div>"I’ll protect it with my life," I promised her.</div>
+					<div>"Thank you," she said with a smile. Then her smile faded into a sad smile, which doesn’t sound like it makes much sense but that’s what she did. "I am sorry, Slim, but I must leave you. As a goddess, I can’t remain here. Please, Slim, take care of yourself. For me. And make some sick-ass bread for the people that everyone will love."</div>
+					<div>A tear ran down my cheek. "I will. I promise. I love you, Moira."</div>
+					<div>"I love you too," she said. And with another flash of light, she was gone, leaving nothing but a mist of flour floating in the air and the smell of freshly baked bagels. I solemnly collected Henry, who offered his condolences, and began to make my way out of the keep.</div>
+					<br>
+					<div>As the ripply flashback transition took us back to the B-Bar and out of Slim’s story, I masterfully changed the narrative point of view back to third-person omniscient like the literary goddess I am.</div>
+					<div>"What does the orb do?" asked the young elf patron.</div>
+					<div>"Why, it makes bread, my boy! I use it to power my oven." Slim replied. Just then, the doors to the tavern burst open. In the door stood a large menacing ogre, and he was ripped as hell.</div>
+					<div>"SLIM," he boomed.</div>
+					<div>"What?" Slim said, calmly. Then, the ogre collapsed in a heap on the ground. Sticking out of his back was Henry’s sword, with Henry still attached to the end.</div>
+					<div>"Henry, what the hell?" Slim said sternly.</div>
+					<div>"He let his horse shit on me, so I thought I’d teach him a lesson." replied the rock.</div>
+					<div>"Oh, Henry," said everyone in the bar simultaneously.</div>
+					<h1><b>Fin.</b></h1>
 					</body>
 					</html>
 					"})
