@@ -1245,3 +1245,12 @@ kit_name: red padded cloak
 kit_desc: A sleek cloak, padded for the protection of the wearer.
 kit_icon: tesh_hcloak_rg
 }
+
+{
+ckey: aimlessAnalyst
+character_name: Blues
+item_path: /obj/item/clothing/accessory/poncho/roles/cloak
+item_name: Long Yellow Scarf
+item_desc: This soft, yet impeccably durable scarf looks like it was made out of some sort of silk. It flows freely, and it looks like it's been well-worn for at least a couple of years. 'Blues Bright' is embroidered into one of the corners.
+item_icon: blues_scarf
+}
