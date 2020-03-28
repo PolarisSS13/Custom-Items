@@ -14,5 +14,5 @@ atermonera-Cynth i0n
 nalarac-Acero
 schnayy-I.R.I.S.
 misterlayne-Winzigeroboter
-AimlessAnalyst:GeminEye
-AimlessAnalyst-GeminEye
+aimlessanalyst:GeminEye
+aimlessanalyst-GeminEye
