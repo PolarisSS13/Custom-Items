@@ -1254,3 +1254,25 @@ item_name: Long Yellow Scarf
 item_desc: This soft, yet impeccably durable scarf looks like it was made out of some sort of silk. It flows freely, and it looks like it's been well-worn for at least a couple of years. 'Blues Bright' is embroidered into one of the corners.
 item_icon: blues_scarf
 }
+
+{
+ckey: LovelyLayne
+character_name: Yury Har'naska
+item_path: /obj/item/device/kit/suit/rig
+item_name: Yury`s RIGsuit Customization Kit
+item_desc: A customisation kit with all the parts needed to convert a RIG.
+kit_name: Yury`s Rig Module
+kit_desc: A comfortable RIGsuit variant, perfect for furred species.
+kit_icon: yurig
+}
+
+{
+ckey: Solariium
+character_name: Nylah Nanako
+item_path: /obj/item/device/kit/suit/rig
+item_name: Nylah`s RIGsuit Customization Kit
+item_desc: A customisation kit with all the parts needed to convert a RIG.
+kit_name: Nylah`s Rig Module
+kit_desc: A customized RIGsuit variant.
+kit_icon: nylah_rig
+}
