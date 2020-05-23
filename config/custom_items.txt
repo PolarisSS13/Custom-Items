@@ -1276,3 +1276,12 @@ kit_name: Nylah`s Rig Module
 kit_desc: A customized RIGsuit variant.
 kit_icon: nylah_rig
 }
+
+{
+ckey: BattlefieldCommander
+character_name: Molly Highlander
+item_path: /obj/item/clothing/head/beret/purple
+item_name: feathered beret
+item_icon: beret_molly
+item_desc: <font face='times new roman ms'>"Where did you procure such a feather, Madame?"</font><br>A stylish purple beret made from felt, with a large yellow feather pinned to it. It looks comfy and well-worn.
+}
