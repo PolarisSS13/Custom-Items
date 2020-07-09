@@ -10,6 +10,7 @@ CATEGORY: Reference
 	desc = "A hardbound book titled \"Thermodynamic Reactions and Research: A Guide to Phoron Studies and Safety\" by I.R.I.S.."
 	description_info = "This book is titled \"Thermodynamic Reactions and Research: A Guide to Phoron Studies and Safety\" by I.R.I.S.. It appears to cover the fundamentals of phoron and thermodynamic research."
 
+	title = "Thermodynamic Reactions and Research"
 	icon_state = "bookParticleAccelerator"
 	origkey = "Schnayy"
 	author = "I.R.I.S."
@@ -169,6 +170,7 @@ CATEGORY: Reference
 	desc = "A hardbound book titled \"Managing an Understaffed Medbay\" by the Solar Medical Association."
 	description_info = "This book is titled \"Managing an Understaffed Medbay\" by Solar Medical Association. It covers basic medical procedures when medical is understaffed."
 
+	title = "Managing an Understaffed Medbay"
 	icon_state = "book7"
 	origkey = "Schnayy"
 	author = "Solar Medical Association"
