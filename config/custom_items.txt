@@ -1285,3 +1285,12 @@ item_name: feathered beret
 item_icon: beret_molly
 item_desc: <font face='times new roman ms'>"Where did you procure such a feather, Madame?"</font><br>A stylish purple beret made from felt, with a large yellow feather pinned to it. It looks comfy and well-worn.
 }
+
+{
+ckey: DasIrrlicht
+character_name: Mieko Nedjem
+item_path: /obj/item/weapon/material/fishing_rod/modern/cheap
+item_name: well made fishing rod
+item_icon: mieko-rod
+item_desc: A fishing rod made from treated wood with a cork handle, produced in some rimward system.
+}
