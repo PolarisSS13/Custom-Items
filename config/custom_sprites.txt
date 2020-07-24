@@ -1,19 +1,19 @@
-ckey-state
-danny220-T1N-Tin Can
-mechoid-Acheron 7*-Baron-Lethe 6*-P.T.S.D.
-sparklysheep-Honeybun
-silvertalismen-RC-2357
-anewbe-Kerberos
-subber-DECA Pod
-sin4-Serin
-sarmie-Ping
-prismaticgynoid-Resonance
-wrongendoftherainbow-Lasis
-battlefieldcommander-Mercurie
-atermonera-Cynth i0n
-nalarac-Acero
-schnayy-I.R.I.S.
-lovelylayne-Winzigeroboter
+ckey|state
+danny220|T1N-Tin Can
+mechoid|Acheron 7*-Baron-Lethe 6*-P.T.S.D.
+sparklysheep|Honeybun
+silvertalismen|RC-2357
+anewbe|Kerberos
+subber|DECA Pod
+sin4|Serin
+sarmie|Ping
+prismaticgynoid|Resonance
+wrongendoftherainbow|Lasis
+battlefieldcommander|Mercurie
+atermonera|Cynth i0n
+nalarac|Acero
+schnayy|I.R.I.S.
+lovelylayne|Winzigeroboter
 aimlessanalyst:GeminEye
-aimlessanalyst-GeminEye
-solariium-Amoris
+aimlessanalyst|GeminEye
+solariium|Amoris
