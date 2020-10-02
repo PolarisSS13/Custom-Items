@@ -1303,3 +1303,20 @@ item_name: Professor Rasikl's Labcoat
 item_icon: labcoat_rasikl
 item_desc: A long, wide, and non-constricting labcoat that protects against minor chemical spills.It is tall enough to fit researchers both big in size and brain.
 }
+
+{
+ckey: DasIrrlicht
+character_name: Felix Tamm
+item_path: /obj/item/clothing/mask/bluescarf
+item_name: mime scarf
+item_icon: felix-scarf
+item_desc: A chique scarf. The perfect accessory for Mimes with a keen fashion sense. Slightly obscures the mimes features, while still so thin that the scarf couldn't handle a cold breeze itself.
+}
+
+{
+ckey: DasIrrlicht
+character_name: Felix Tamm
+item_path: /obj/item/clothing/shoes/mime
+item_name: mime shoes
+item_desc: They could be more classy, but their simplicity would go well with a just as simple suit.
+}
