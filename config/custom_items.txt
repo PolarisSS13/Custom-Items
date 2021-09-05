@@ -1320,3 +1320,14 @@ item_path: /obj/item/clothing/shoes/mime
 item_name: mime shoes
 item_desc: They could be more classy, but their simplicity would go well with a just as simple suit.
 }
+
+{
+ckey: nkomaeda
+character_name: Haven Rasikl
+item_path: /obj/item/device/kit/suit/rig
+item_name: Haven`s RIGsuit Customization Kit
+item_desc: A customisation kit with all the parts needed to convert a RIG.
+kit_name: Xenoscience Treatment and Research Armour Module
+kit_desc: A mean-looking RIG-Suit for a not-so-mean Unathi. It is designed to handle various forms of anomalous and exotic forces, be it biological, material or physics-based. Comes with a built-in tailwarmer.
+kit_icon: xtrig
+}
