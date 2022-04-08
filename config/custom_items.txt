@@ -1331,3 +1331,24 @@ kit_name: Xenoscience Treatment and Research Armour Module
 kit_desc: A mean-looking RIG-Suit for a not-so-mean Unathi. It is designed to handle various forms of anomalous and exotic forces, be it biological, material or physics-based. Comes with a built-in tailwarmer.
 kit_icon: xtrig
 }
+
+{
+ckey: nkomaeda
+character_name: Osisra The Daunting
+item_path: /obj/item/device/kit/suit
+item_name: coat modification kit
+item_desc: A customisation kit with all the tools needed to convert a coat.
+kit_name: Warden's Winter Coat
+kit_desc: A heavy winter coat made from a Warden's armoured coat. There seems to be a sewed in holster. It sacrifices some of the original coat's armour for a thick layer of fur. Has a small tag with 'Osisra' on it.
+kit_icon: osisracoat
+}
+
+# {
+# ckey: nkomaeda
+# character_name: Osisra The Daunting
+# item_path: /obj/item/clothing/shoes/boots/winter/security
+# item_name: Security Winter Boots
+# item_icon: osisraboots
+# item_desc: A pair of custom-made winter boots. These ones are lined with white-grey fur, and coloured in a similar fashion to a certain Warden's preferred coat.
+# req_titles: Security Officer, Warden
+# }
