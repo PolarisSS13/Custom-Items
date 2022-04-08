@@ -1343,12 +1343,12 @@ kit_desc: A heavy winter coat made from a Warden's armoured coat. There seems to
 kit_icon: osisracoat
 }
 
-# {
-# ckey: nkomaeda
-# character_name: Osisra The Daunting
-# item_path: /obj/item/clothing/shoes/boots/winter/security
-# item_name: Security Winter Boots
-# item_icon: osisraboots
-# item_desc: A pair of custom-made winter boots. These ones are lined with white-grey fur, and coloured in a similar fashion to a certain Warden's preferred coat.
-# req_titles: Security Officer, Warden
-# }
+{
+ckey: nkomaeda
+character_name: Osisra The Daunting
+item_path: /obj/item/clothing/shoes/boots/winter/security
+item_name: Security Winter Boots
+item_icon: osisraboots
+item_desc: A pair of custom-made winter boots. These ones are lined with white-grey fur, and coloured in a similar fashion to a certain Warden's preferred coat.
+req_titles: Security Officer, Warden
+}
