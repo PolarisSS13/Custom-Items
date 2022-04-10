@@ -1,3 +1,6 @@
 [merge "merge-dmi"]
-	name = iconfile merge driver
-	driver = ./tools/dmitool/dmimerge.sh %O %A %B
+  name = iconfile merge driver
+  driver = ./tools/dmitool/dmimerge.sh %O %A %B
+[merge "merge-dmm"]
+  name = mapmerge driver
+  driver = ./tools/mapmerge/mapmerge.sh %O %A %B
