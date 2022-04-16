@@ -1352,3 +1352,21 @@ item_icon: osisraboots
 item_desc: A pair of custom-made winter boots. These ones are lined with white-grey fur, and coloured in a similar fashion to a certain Warden's preferred coat.
 req_titles: Security Officer, Warden
 }
+
+{
+ckey: schnayy
+character_name: Venus Hellcat
+item_path: /obj/item/clothing/mask/gas
+item_name: black gas mask
+item_desc: A black gas mask with green filters. It looks fairly new.
+item_icon: hellcat_mask
+}
+
+{
+ckey: schnayy
+character_name: Venus Hellcat
+item_path: /obj/item/clothing/accessory/poncho/thermal
+item_name: thick poncho
+item_desc: A thick black poncho with green accents. Looks very warm.
+item_icon: hellponcho
+}
