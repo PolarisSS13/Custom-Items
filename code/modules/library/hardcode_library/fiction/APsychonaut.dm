@@ -5,7 +5,7 @@ CATEGORY: Fiction
 
 /// A Purrrrfect Man by Karla.
 
-/obj/item/weapon/book/bundle/custom_library/fiction/apurrrrfectman
+/obj/item/book/bundle/custom_library/fiction/apurrrrfectman
 
 	name = "A Purrrrfect Man"
 	desc = "A hardbound book titled \"A Purrrrfect Man\" by Karla."
@@ -154,7 +154,7 @@ CATEGORY: Fiction
 
 /// What Are You, Chicken? by Karla.
 
-/obj/item/weapon/book/bundle/custom_library/fiction/whatareyouchicken
+/obj/item/book/bundle/custom_library/fiction/whatareyouchicken
 
 	name = "What Are You, Chicken?"
 	desc = "A hardbound book titled \"What Are You, Chicken?\" by Karla."

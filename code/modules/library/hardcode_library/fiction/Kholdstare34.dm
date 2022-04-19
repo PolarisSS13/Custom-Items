@@ -5,7 +5,7 @@ CATEGORY: Fiction
 
 /// The Song of Wandering Aengus by W.B. Yeats
 
-/obj/item/weapon/book/custom_library/fiction/songofwanderingaengus
+/obj/item/book/custom_library/fiction/songofwanderingaengus
 	name = "The Song of Wandering Aengus"
 	desc = "A hardbound book titled \"The Song of Wandering Aengus\" by W.B. Yeats."
 	description_info = "This book is titled \"The Song of Wandering Aengus\". There is text on the back:<br>\
@@ -58,7 +58,7 @@ CATEGORY: Fiction
 
 /// On Time by John Milton
 
-/obj/item/weapon/book/custom_library/fiction/ontime
+/obj/item/book/custom_library/fiction/ontime
 	name = "On Time"
 	desc = "A hardbound book titled \"On Time\" by John Milton."
 	description_info = "This book is titled \"On Time\". There is text on the back:<br>\
