@@ -36,7 +36,7 @@
   {
   ckey: zuhayr
   character_name: Jane Doe
-  item_path: /obj/item/device/kit/paint
+  item_path: /obj/item/kit/paint
   item_name: APLU customisation kit
   item_desc: A customisation kit with all the parts needed to turn an APLU into a "Titan's Fist" model.
   kit_name: APLU "Titan's Fist"

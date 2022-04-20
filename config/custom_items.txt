@@ -19,7 +19,7 @@
 # {
 # ckey: zuhayr
 # character_name: Jane Doe
-# item_path: /obj/item/device/kit/paint
+# item_path: /obj/item/kit/paint
 # item_name: APLU customisation kit
 # item_desc: A customisation kit with all the parts needed to turn an APLU into a "Titan's Fist" model.
 # kit_name: APLU "Titan's Fist"
@@ -31,7 +31,7 @@
 # {
 # ckey: zuhayr
 # character_name: Jane Doe
-# item_path: /obj/item/device/kit/suit
+# item_path: /obj/item/kit/suit
 # item_name: salvage suit customisation kit
 # item_desc: A customisation kit with all the parts needed to convert a suit.
 # kit_name: salvage
@@ -74,7 +74,7 @@ item_desc: A standard geneticist's labcoat - this one looks a little worn. "Dr. 
 {
 ckey: zekesulastin
 character_name: Nibras Khalidah
-item_path: /obj/item/device/kit/suit
+item_path: /obj/item/kit/suit
 item_name: Heavily Refitted Voidsuit Kit
 item_desc: A customisation kit with all the parts needed to convert a suit.
 kit_name: Nibras refit kit
@@ -148,7 +148,7 @@ item_icon: chloetrinket
 {
 ckey: redstryker
 character_name: John MacNamarra
-item_path: /obj/item/weapon/storage/bible
+item_path: /obj/item/storage/bible
 item_name: MacNamarra Family Bible
 item_desc: It is an old, white Bible with white trim and semi-frayed, yellowed edges and pages.  It has a green Celtic cross on the cover with gold trim.  Over the middle of the cross, there is a red shield with a white lion in the middle and a bascinet helmet adorned with red feathers above the shield. 
 item_icon: macnamarrabible
@@ -166,7 +166,7 @@ item_icon: lucaheadphones_off
 {
 ckey: redstryker
 character_name: Luca Marcinelli
-item_path: /obj/item/device
+item_path: /obj/item
 item_name: Video Camera
 item_desc: A handheld video camera. It's got the Ward-Takahashi logo on the side of it.
 item_icon: lucacamera
@@ -268,7 +268,7 @@ req_titles: Station Engineer, Atmospheric Technician, Chief Engineer
 {
 ckey: Bobhendly
 character_name: Tau-Rho Machina
-item_path: /obj/item/weapon/storage/briefcase
+item_path: /obj/item/storage/briefcase
 item_name: Tau-Rho's Suitcase
 item_desc: It has fresh looking leather surrounding its golden looking fittings and buckles. It gives of a sense of Professionalism, Confidence, Wealth, and Wisdom...Even if its user might not have any.
 item_icon: tau-rho_brief
@@ -277,7 +277,7 @@ item_icon: tau-rho_brief
 {
 ckey: Ithalan
 character_name: Valerie Moore
-item_path: /obj/item/weapon/cane/whitecane
+item_path: /obj/item/cane/whitecane
 item_name: White Cane
 item_desc: A white cane with a handstrap at one end, commonly seen in the hand of the blind.
 }
@@ -312,7 +312,7 @@ item_icon: hollywood_cardigan
 {
 ckey: jakksergal
 character_name: Eshi Riri
-item_path: /obj/item/weapon/storage/bible
+item_path: /obj/item/storage/bible
 item_name: Riri's Art Book
 item_desc: A thick, heavy, and tattered binder with many pages of hand drawn pictures. In the bottom right is written "Riri's" in a little name box. Next to that is "PRIVATE" written in big red painted-on letters. 
 item_icon: riri_book
@@ -437,7 +437,7 @@ item_icon: luck_rabbi
 {
 ckey: bishop3000
 character_name: Wade West
-item_path: /obj/item/device/kit/suit
+item_path: /obj/item/kit/suit
 item_name: Wade's Arctic Voidsuit Kit
 item_desc: A customisation kit with all the parts needed to convert a suit.
 kit_name: Wade's arctic 
@@ -448,7 +448,7 @@ kit_icon: seinfeld
 {
 ckey: inquisitorjohn
 character_name:	Ssegorath Esskor
-item_path: /obj/item/device/kit/suit
+item_path: /obj/item/kit/suit
 item_name: JGR-NT Voidsuit Kit
 item_desc: A customisation kit with all the parts needed to convert a suit.
 kit_name: JGR-NT Voidsuit
@@ -460,7 +460,7 @@ additional_data: inquisitorjohn-jgrnt_light
 {
 ckey: 1ce_princess
 character_name: Willow Wisp
-item_path: /obj/item/device/kit/suit
+item_path: /obj/item/kit/suit
 item_name: Refurbished Voidsuit Kit
 item_desc: A customisation kit with all the parts needed to convert a suit.
 kit_name: Refurbished Voidsuit
@@ -472,7 +472,7 @@ additional_data: iceprincess-refurb_light
 {
 ckey: emgee
 character_name: Vincent Vargas
-item_path: /obj/item/weapon/storage/bible
+item_path: /obj/item/storage/bible
 item_name: Leather Notebook
 item_desc: It's a large, black notebook bound in black leather. It has the initials V.V on it's cover with golden print. At a glance, it seems to be filled with rows of neat handwriting and the occasional rough sketch. On opening the notebook you see: https://docs.google.com/document/d/1MjUMhy8zZOy8qQFdDW3A-bruI8RLI-IL3eE7NnAs7RQ/edit?usp=sharing
 item_icon: emgee-notebook
@@ -499,7 +499,7 @@ item_icon: fisher_beret
 {
 ckey: mimeinwheelchairisling
 character_name: Edwin Sallow
-item_path: /obj/item/weapon/storage/bible
+item_path: /obj/item/storage/bible
 item_name: De Cultu Martis Dogma
 item_desc: A gold-lined, sacred holy book that's the centerpiece of Edwin's interpretation of Roman Gods depicting a yellow Bull on top of a red background, as well as a yellow "MARS" written below the bull.
 item_icon: edwin_bible
@@ -517,7 +517,7 @@ item_icon: edwin_chaplain
 {
 ckey: nalarac
 character_name: Madison Brownell
-item_path: /obj/item/device/kit/paint
+item_path: /obj/item/kit/paint
 item_name: "Quasar" Odysseus customization kit
 item_desc: A customisation kit with all the parts needed to turn an Odysseus into a "Quasar" model.
 kit_name: Odysseus "Quasar"
@@ -602,7 +602,7 @@ item_icon: ikya_necklace
 {
 ckey: furohman
 character_name: Fay Sullivan
-item_path: /obj/item/weapon/flame/lighter/zippo
+item_path: /obj/item/flame/lighter/zippo
 item_name: Graduation Lighter
 item_desc: It's a silver-plated lighter. An engraving on one side reads: "Fay Sullivan - Cybernetic Engineering (MEng) - University of Tharsis - Class of 2541 - May your light never die". On the other is an image of a large "41" in front of the symbol of the university. It looks well used.
 item_icon: faysullivan_lighter
@@ -639,7 +639,7 @@ req_titles: Resident, Bartender, Command Secretary, Quartermaster, Internal Affa
 {
 ckey: anewbe
 character_name: Zane Keppel
-item_path: /obj/item/weapon/storage/backpack
+item_path: /obj/item/storage/backpack
 item_name: Surplus Backpack
 item_icon: zanekeppel_backpack
 item_desc: A black backpack with lots of pockets.
@@ -693,7 +693,7 @@ item_icon: vg_halfbala
 {
 ckey: kerbal22
 character_name: Morgan Grayson
-item_path: /obj/item/device/kit/paint
+item_path: /obj/item/kit/paint
 item_name: Gygax customisation kit
 item_desc: A customisation kit with all the parts needed to turn a Gygax into an "IceStrider" model.
 kit_name: Gygax Modkit 'IceStrider'
@@ -705,7 +705,7 @@ additional_data: gygax
 {
 ckey: skaterboybob
 character_name: Asta Ostergaard
-item_path: /obj/item/weapon/flame/lighter/zippo
+item_path: /obj/item/flame/lighter/zippo
 item_name: anarchist zippo
 item_desc: All you need to spark a revolution.
 item_icon: commiezippo
@@ -779,7 +779,7 @@ item_desc: A stylish pair of aviator sunglasses. The lenses appear to be tinted 
 {
 ckey: Misiek1001
 character_name: Nathaniel Keller
-item_path: /obj/item/device/kit/suit
+item_path: /obj/item/kit/suit
 item_name: Sleek Voidsuit Kit
 item_desc: A customisation kit with all the parts needed to convert a suit.
 kit_name: sleek voidsuit refit kit
@@ -800,13 +800,13 @@ item_desc: A refurbished but sturdy Medical HUD visor. 'Gazing Heavenward Foreve
 {
 ckey: MistyLuminescence
 character_name: Sana'rrali Riyyarlir
-item_path: /obj/item/device/kit
+item_path: /obj/item/kit
 item_name: white hypospray modification kit
 item_desc: A case for a DeForest hypospray. Actual hypospray not included.
 kit_name: white hypospray
 kit_desc: A customised DeForest MkII hypospray - it's white with blue highlights. There's a small red heart on a chain attached to it.
 kit_icon: sana_hypo
-additional_data: /obj/item/weapon/reagent_containers/hypospray
+additional_data: /obj/item/reagent_containers/hypospray
 }
 
 {
@@ -848,7 +848,7 @@ item_icon: anton_ring
 {
 ckey: Potato1234
 character_name: Larisa Hunter
-item_path: /obj/item/device/kit/suit
+item_path: /obj/item/kit/suit
 item_name: explorer suit modification kit
 item_desc: A customisation kit with all the parts needed to convert an explorer suit.
 kit_name: modified explorer
@@ -877,7 +877,7 @@ item_desc: It looks to be a slightly flexible cap made of furs, with blue strand
 {
 ckey: schnayy
 character_name: Dahlia Korakov
-item_path: /obj/item/device/kit/suit
+item_path: /obj/item/kit/suit
 item_name: hoodie modification kit
 item_desc: A customisation kit with all the tools needed to convert a hoodie.
 kit_name: spider coat
@@ -897,13 +897,13 @@ item_desc: A Teshari garment adapted for use by the smaller employees. Comes pac
 {
 ckey: elgeonmb
 character_name: Victoria Auto
-item_path: /obj/item/device/kit
+item_path: /obj/item/kit
 item_name: translator modification kit
 item_desc: A little hairbow in a box, with a slot to fit in a universal translator.
 kit_name: concealed translator
 kit_desc: A universal translator artfully tucked into a little red hairbow.
 kit_icon: vic_hairbow
-additional_data: /obj/item/device/universal_translator/ear
+additional_data: /obj/item/universal_translator/ear
 }
 
 {
@@ -918,7 +918,7 @@ item_icon: har_blackemtcoat
 {
 ckey: Kyoshiku
 character_name: Sierra Anderson
-item_path: /obj/item/device/kit/suit
+item_path: /obj/item/kit/suit
 item_name: explorer suit modification kit
 item_desc: A customisation kit with all the parts needed to convert an explorer suit.
 kit_name: Sif Arctic Explorer Suit
@@ -985,7 +985,7 @@ item_icon: hatValary
 {
 ckey: AncientV25
 character_name: Alan McCoy
-item_path: /obj/item/device/kit
+item_path: /obj/item/kit
 item_name: Heavy Armor Vest modification kit
 item_desc: A customisation kit with all the parts needed to convert a heavy vest.
 kit_name: PCRC Heavy Armor Vest
@@ -998,7 +998,7 @@ additional_data: /obj/item/clothing/suit/storage/vest/heavy
 {
 ckey: AncientV25
 character_name: Alan McCoy
-item_path: /obj/item/device/kit
+item_path: /obj/item/kit
 item_name: Helmet modification kit
 item_desc: A customisation kit with all the parts needed to convert a helmet.
 kit_name: PCRC Helmet
@@ -1011,7 +1011,7 @@ additional_data: /obj/item/clothing/head/helmet
 {
 ckey: thezblah
 character_name: Ziyaad Amari
-item_path: /obj/item/weapon/book/codex/lore/news
+item_path: /obj/item/book/codex/lore/news
 item_name: GameGirl
 item_desc: No not that kind, this one actually plays games. A mass produced handheld games console.
 item_icon: ziyaadGameGirl
@@ -1020,7 +1020,7 @@ item_icon: ziyaadGameGirl
 {
 ckey: Serithi
 character_name: Arja Nazkiin
-item_path: /obj/item/device/kit/suit
+item_path: /obj/item/kit/suit
 item_name: explorer suit modification kit
 item_desc: A customisation kit with all the parts needed to convert an explorer suit.
 kit_name: fancy explorer
@@ -1031,7 +1031,7 @@ kit_icon: arja_explorer
 {
 ckey: DasIrrlicht
 character_name: Arianna Braun
-item_path: /obj/item/device/radio
+item_path: /obj/item/radio
 item_name: old radio
 item_desc: An old FM radio that probably has seen better times. This one is modified to broadcast on Station-Frequencies.
 item_icon: arianna_radio
@@ -1047,7 +1047,7 @@ req_titles: Roboticist
 {
 ckey: DasIrrlicht
 character_name: Ashema Rea
-item_path: /obj/item/device/kit
+item_path: /obj/item/kit
 item_name: Radiation Suit Modification Kit
 item_desc: A customisation kit with all the parts needed to turn a Radiation Suit into a Teshari-sized suit.
 kit_name: Teshari Radiation Suit
@@ -1059,7 +1059,7 @@ additional_data: /obj/item/clothing/suit/radiation
 {
 ckey: DasIrrlicht
 character_name: Ashema Rea
-item_path: /obj/item/device/kit
+item_path: /obj/item/kit
 item_name: Radiation Hood Modification Kit
 item_desc: A customisation kit with all the parts needed to turn a Radiation Hood into a Teshari-sized hood. Kind of useless without the suit one.
 kit_name: Teshari Radiation Hood
@@ -1080,7 +1080,7 @@ item_icon: ricardo_locket
 {
 ckey: aimlessAnalyst
 character_name: Lohkev
-item_path: /obj/item/device/kit/suit
+item_path: /obj/item/kit/suit
 item_name: Demolitions Modkit
 item_desc: A customisation kit with all the parts needed to convert a suit. This one has a little 'EOD' plate on it.
 kit_name: Demolitions
@@ -1100,7 +1100,7 @@ item_desc: An old, well-worn yet immaculately-kept cloak, coloured in a royal sh
 {
 ckey: naidh
 character_name: Wayfinder
-item_path: /obj/item/device/kit/suit
+item_path: /obj/item/kit/suit
 item_name: hoodie modification kit
 item_desc: A customisation kit with all the tools needed to convert a hoodie.
 kit_name: s&r pathfinder`s winter coat
@@ -1129,7 +1129,7 @@ item_icon: iris_dress
 {
 ckey: kartagrafi
 character_name: Devon Emerson
-item_path: /obj/item/device/radio/headset
+item_path: /obj/item/radio/headset
 item_name: noise-cancelling earphones
 item_desc: These custom-made earphones muffle the noise around you partially, making loud sounds much more bearable. It was almost as if they were made specially for someone sound sensitive. A microphone conveniently sticks out from one half, typically connected to the radio.
 item_icon: noise_earphones
@@ -1138,7 +1138,7 @@ item_icon: noise_earphones
 {
 ckey: Psolus
 character_name: Edaeya Zofa
-item_path: /obj/item/device/kit
+item_path: /obj/item/kit
 item_name: Radiation Hood Modification Kit
 item_desc: A customisation kit with all the parts needed to turn a Radiation Hood into a Teshari-sized hood. Kind of useless without the suit one.
 kit_name: Teshari Radiation Hood
@@ -1150,7 +1150,7 @@ additional_data: /obj/item/clothing/head/radiation
 {
 ckey: Psolus
 character_name: Edaeya Zofa
-item_path: /obj/item/device/kit
+item_path: /obj/item/kit
 item_name: Radiation Suit Modification Kit
 item_desc: A customisation kit with all the parts needed to turn a Radiation Suit into a Teshari-sized suit.
 kit_name: Teshari Radiation Suit
@@ -1198,7 +1198,7 @@ item_icon: trailcutter_jumpsuit
 {
 ckey: Doopytoots
 character_name: Lupo
-item_path: /obj/item/device/kit
+item_path: /obj/item/kit
 item_name: drone identification armband kit
 kit_name: drone identification armband (Lupo)
 kit_desc: A identification issued and authorized by the EIO, indicating that the owner is a Drone Intelligence. Drones are mandated to carry a identification within SolGov space, by law. This one belongs to Lupo, a B-Class Intelligence.
@@ -1227,7 +1227,7 @@ item_icon: palfrey_ribbon
 {
 ckey: Greenjoe
 character_name: Arata Esenia
-item_path: /obj/item/device/kit/suit
+item_path: /obj/item/kit/suit
 item_name: explorer suit modification kit
 item_desc: A customisation kit with all the parts needed to convert an explorer suit.
 kit_name: black padded cloak
@@ -1238,7 +1238,7 @@ kit_icon: tesh_hcloak_bo
 {
 ckey: Lorilili
 character_name: Arata Ticete
-item_path: /obj/item/device/kit/suit
+item_path: /obj/item/kit/suit
 item_name: explorer suit modification kit
 item_desc: A customisation kit with all the parts needed to convert an explorer suit.
 kit_name: red padded cloak
@@ -1258,7 +1258,7 @@ item_icon: blues_scarf
 {
 ckey: LovelyLayne
 character_name: Yury Har'naska
-item_path: /obj/item/device/kit/suit/rig
+item_path: /obj/item/kit/suit/rig
 item_name: Yury`s RIGsuit Customization Kit
 item_desc: A customisation kit with all the parts needed to convert a RIG.
 kit_name: Yury`s Rig Module
@@ -1269,7 +1269,7 @@ kit_icon: yurig
 {
 ckey: Solariium
 character_name: Nylah Nanako
-item_path: /obj/item/device/kit/suit/rig
+item_path: /obj/item/kit/suit/rig
 item_name: Nylah`s RIGsuit Customization Kit
 item_desc: A customisation kit with all the parts needed to convert a RIG.
 kit_name: Nylah`s Rig Module
@@ -1289,7 +1289,7 @@ item_desc: <font face='times new roman ms'>"Where did you procure such a feather
 {
 ckey: DasIrrlicht
 character_name: Mieko Nedjem
-item_path: /obj/item/weapon/material/fishing_rod/modern/cheap
+item_path: /obj/item/material/fishing_rod/modern/cheap
 item_name: well made fishing rod
 item_icon: mieko-rod
 item_desc: A fishing rod made from treated wood with a cork handle, produced in some rimward system.
@@ -1324,7 +1324,7 @@ item_desc: They could be more classy, but their simplicity would go well with a 
 {
 ckey: nkomaeda
 character_name: Haven Rasikl
-item_path: /obj/item/device/kit/suit/rig
+item_path: /obj/item/kit/suit/rig
 item_name: Haven`s RIGsuit Customization Kit
 item_desc: A customisation kit with all the parts needed to convert a RIG.
 kit_name: Xenoscience Treatment and Research Armour Module
@@ -1335,7 +1335,7 @@ kit_icon: xtrig
 {
 ckey: nkomaeda
 character_name: Osisra The Daunting
-item_path: /obj/item/device/kit/suit
+item_path: /obj/item/kit/suit
 item_name: coat modification kit
 item_desc: A customisation kit with all the tools needed to convert a coat.
 kit_name: Warden's Winter Coat
