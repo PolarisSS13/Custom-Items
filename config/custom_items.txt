@@ -620,10 +620,12 @@ item_icon: rezna_jacket
 {
 ckey: edwardc120
 character_name: Szent Gyam
-item_path: /obj/item/clothing/accessory/poncho
-item_name: Hussar Winged Armor
-item_desc: A set of armor from ancient Terran days traditionally worn by horseback Calvary. Despite this, the set seams rather well kept and its metal shines. How this ended up here of all places is a question for the divine.
-item_icon: szentgyam_armor
+item_path: /obj/item/kit/accessory
+item_name: poncho customization kit
+item_desc: A customization kit with all parts needed to convert a poncho. 
+kit_name: Hussar Winged Armor
+kit_desc: A set of armor from ancient Terran days traditionally worn by horseback Calvary. Despite this, the set seams rather well kept and its metal shines. How this ended up here of all places is a question for the divine.
+kit_icon: szentgyam_armor
 }
 
 {
@@ -929,10 +931,12 @@ kit_icon: sierra_explorer
 {
 ckey: Mangled
 character_name: Drifter
-item_path: /obj/item/clothing/accessory/poncho
-item_name: Tattered Poncho
-item_desc:  A tattered poncho almost as old as its owner. It's seen better days.
-item_icon: drifterponcho
+item_path: /obj/item/kit/accessory
+item_name: poncho customization kit
+item_desc: A customization kit with all the parts needed to convert a poncho.
+kit_name: Tattered Poncho
+kit_desc: A tattered poncho almost as old as its owner. It's seen better days.
+kit_icon: drifterponcho
 }
 
 {
@@ -967,10 +971,12 @@ req_titles: Explorer, Chief Engineer, Engineer, Atmospheric Technician
 {
 ckey: Nairok
 character_name: Valary Wright
-item_path: /obj/item/clothing/accessory/poncho
-item_name: Worn Duster
-item_desc:  A sturdy, plain leather duster, lacking any form of pockets. This one seems to have been through a lot of use.
-item_icon: dusterValary
+item_path: /obj/item/kit/accessory
+item_name: poncho customization kit
+item_desc: A customization kit with all the parts needed to convert a poncho.
+kit_name: Worn Duster
+kit_desc: A sturdy, plain leather duster, lacking any form of pockets. This one seems to have been through a lot of use.
+kit_icon: dusterValary
 }
 
 {
@@ -1365,8 +1371,10 @@ item_icon: hellcat_mask
 {
 ckey: schnayy
 character_name: Venus Hellcat
-item_path: /obj/item/clothing/accessory/poncho/thermal
-item_name: thick poncho
-item_desc: A thick black poncho with green accents. Looks very warm.
-item_icon: hellponcho
+item_path: /obj/item/kit/accessory
+item_name: poncho customization kit
+item_desc: A customization kit with all the parts needed to convert a poncho.
+kit_name: thick poncho
+kit_desc: A thick black poncho with green accents. Looks very warm.
+kit_icon: hellponcho
 }
