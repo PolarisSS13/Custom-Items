@@ -1344,7 +1344,7 @@ character_name: Osisra The Daunting
 item_path: /obj/item/kit/suit
 item_name: coat modification kit
 item_desc: A customisation kit with all the tools needed to convert a coat.
-kit_name: Warden's Winter Coat
+kit_name: warden's winter coat
 kit_desc: A heavy winter coat made from a Warden's armoured coat. There seems to be a sewed in holster. It sacrifices some of the original coat's armour for a thick layer of fur. Has a small tag with 'Osisra' on it.
 kit_icon: osisracoat
 }
@@ -1353,7 +1353,7 @@ kit_icon: osisracoat
 ckey: nkomaeda
 character_name: Osisra The Daunting
 item_path: /obj/item/clothing/shoes/boots/winter/security
-item_name: Security Winter Boots
+item_name: security winter boots
 item_icon: osisraboots
 item_desc: A pair of custom-made winter boots. These ones are lined with white-grey fur, and coloured in a similar fashion to a certain Warden's preferred coat.
 req_titles: Security Officer, Warden
@@ -1377,4 +1377,25 @@ item_desc: A customization kit with all the parts needed to convert a poncho.
 kit_name: thick poncho
 kit_desc: A thick black poncho with green accents. Looks very warm.
 kit_icon: hellponcho
+}
+
+{
+ckey: toomie
+item_path: /obj/item/kit/suit
+item_name: coat modification kit
+item_desc: A customization kit with all the tools needed to convert a coat.
+kit_name: winter labcoat
+kit_desc: A synthetic white and red labcoat. This one is made with fur with a hood on it to make it warmer. The name 'Kesiel Rasikl' is written on it.
+kit_icon: kesielcoat
+}
+
+{
+ckey: nkomaeda
+character_name: Yaizil Turvol
+item_path: /obj/item/kit/suit/rig
+item_name: RIGsuit Customization Kit
+item_desc: A customization kit with all the parts needed to convert a RIG.
+kit_name: ADM.i.RE RIG
+kit_desc: A worn, tempered RIG-suit with heavy plating and a custom breathing apparatus. Looks like it's been through a lot of exponentially heightened power, and seems capable of staking government land with a geiger counter in its hand.
+kit_icon: admirerig
 }
