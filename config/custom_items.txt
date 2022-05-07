@@ -1381,6 +1381,7 @@ kit_icon: hellponcho
 
 {
 ckey: toomie
+character_name: Kesiel Rasikl
 item_path: /obj/item/kit/suit
 item_name: coat modification kit
 item_desc: A customization kit with all the tools needed to convert a coat.
