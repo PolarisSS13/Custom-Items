@@ -1400,3 +1400,24 @@ kit_name: ADM.i.RE RIG
 kit_desc: A worn, tempered RIG-suit with heavy plating and a custom breathing apparatus. Looks like it's been through a lot of exponentially heightened power, and seems capable of staking government land with a geiger counter in its hand.
 kit_icon: admirerig
 }
+
+{
+ckey: FalseShepardPie
+character_name: SINA-499
+item_path: /obj/item/clothing/head
+item_name: Corsair's Tricorn
+item_desc: A tricorn hat with gold trim. Yarr.
+item_icon: sina_499_hat
+}
+
+{
+ckey: FalseShepardPie
+character_name: SINA-499
+item_path: /obj/item/kit
+item_name: corsair's plate kit
+item_desc: A customisation kit with all the parts needed to convert a plate carrier.
+kit_name: Corsair's Plate Carrier
+kit_desc: A reinforced voidsuit with enhanced dexterity, for all of those fiddly bomb parts.
+kit_icon: sina_499_carrier
+additional_data: /obj/item/clothing/suit/armor/pcarrier
+}
