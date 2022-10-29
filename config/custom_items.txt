@@ -1421,3 +1421,41 @@ kit_desc: A reinforced voidsuit with enhanced dexterity, for all of those fiddly
 kit_icon: sina_499_carrier
 additional_data: /obj/item/clothing/suit/armor/pcarrier
 }
+
+{
+ckey: Oddbomber3768
+character_name: Iymara-4
+item_path: /obj/item/clothing/suit/storage/duster
+item_name: forged ceremonial mask
+item_desc:  An ominous, crude mask that has been hand-forged from iron in the vague image of a human face. A cowl of silken cloth covers the remainder of the head, while a band of more iron serves as a crown. 
+item_icon: iymara_4_mask
+}
+
+{
+ckey: Oddbomber3768
+character_name: Iymara-4
+item_path: /obj/item/clothing/suit/unathi/robe
+item_name: forged ceremonial garments
+item_desc:  A loose-worn, ornate robe adorned with gold chains and an onyx-black collar. Iron shackles, now without chains, are clasped around the ankles and wrists. Faintly ominous.
+item_icon: iymara_4_garments
+}
+
+{
+ckey: Oddbomber3768
+character_name: Laughing Jackal
+item_path: /obj/item/clothing/suit/storage/duster
+item_name: tagged-up trenchcoat
+item_desc:  A heavy, canvas trenchcoat meant for all-weather use. Over the years, someone has meticulously covered almost every inch of the coarse fabric with patterns, logos, messages, and patches. The left arm appears to be covered in painted-on, diagonal red-white stripes, while the other has been completely covered in a crude drawing of rosethorns with a permenant marker. The back of the coat is similarly decorated, with a myriad of crude scribbles and (mostly explicit) phrases in Gutter. NO REST FOR THE WICKED can be seen scribbed across the rear shoulder with big, white letters.
+item_icon: laughing_jackal_trenchcoat
+}
+
+{
+ckey: Toomie
+character_name: Kenn Nakai
+kit_name: commander jacket
+kit_desc: A worn but stylish jacket, It has the name Kenn Nakai and a red rose sewn inside.
+kit_icon: kenn_nakai_cloak
+item_path: /obj/item/kit/accessory
+item_name: poncho customization kit
+item_desc: A customization kit with all the parts needed to convert a poncho.
+}
