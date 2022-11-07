@@ -823,7 +823,7 @@ item_desc: A modernized version of the classic design, this mask will not only f
 {
 ckey: Wickedtemp
 character_name: Tempest Huxley
-item_path: /obj/item/clothing/accessory/poncho/roles/cloak
+item_path: /obj/item/clothing/accessory/storage/poncho/roles/cloak
 item_name: purple cloak
 item_icon: tempest_cloak
 item_desc: An elaborate purple cloak made from comfortable, hazard-resistant nanoweave. The gold collar has 'Health is the greatest of blessings' written on the inside lining.
@@ -1097,7 +1097,7 @@ kit_icon: aimlessFlicker
 {
 ckey: aimlessAnalyst
 character_name: Needle
-item_path: /obj/item/clothing/accessory/poncho/roles/cloak
+item_path: /obj/item/clothing/accessory/storage/poncho/roles/cloak
 item_name: regal cloak
 item_icon: needle_cloak
 item_desc: An old, well-worn yet immaculately-kept cloak, coloured in a royal shade of purple with gold trim. The fabric, while sturdy, allows for flowing movement, and it has a high, pointed collar.
@@ -1117,7 +1117,7 @@ kit_icon: coatwayfinder
 {
 ckey: 1ce_princess
 character_name: Eclipse
-item_path: /obj/item/clothing/accessory/poncho/roles/cloak
+item_path: /obj/item/clothing/accessory/storage/poncho/roles/cloak
 item_name: synthetic wings
 item_icon: eclipsewings
 item_desc: A pair of strikingly colored insectile wings, made of some sort of thin polymer with bits of faux fuzz. Has a plug to hook into a synthetic, allowing them to flutter a bit, and making it quite uncomfortable for non-synthetics to wear.
@@ -1255,7 +1255,7 @@ kit_icon: tesh_hcloak_rg
 {
 ckey: aimlessAnalyst
 character_name: Blues
-item_path: /obj/item/clothing/accessory/poncho/roles/cloak
+item_path: /obj/item/clothing/accessory/storage/poncho/roles/cloak
 item_name: Long Yellow Scarf
 item_desc: This soft, yet impeccably durable scarf looks like it was made out of some sort of silk. It flows freely, and it looks like it's been well-worn for at least a couple of years. 'Blues Bright' is embroidered into one of the corners.
 item_icon: blues_scarf
