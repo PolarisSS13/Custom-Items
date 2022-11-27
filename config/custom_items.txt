@@ -365,9 +365,56 @@ item_icon: irene_beret
 ckey: xdarksapphire
 character_name: Alyss
 item_path: /obj/item/clothing/under
-item_name: Antiquarian Dress
-item_desc: "An antiquarian black dress, harkening back to the days of the Victorian era. A deep love for the wearer can be surmised by the craftmanship and care put into the article, almost bordering on mania."
+item_name: Dollmaker's Dress
+item_desc: "An old custom-tailored dress, made in the style of various museum pieces. It is well-worn and partially damaged in certain areas."
 item_icon: alyss_dress
+}
+
+{
+ckey: xdarksapphire
+character_name: Alyss
+item_path: /obj/item/kit/clothing
+item_name: Alyss' Rose
+item_desc: "A seemingly ordinary rose, worn by Alyss to obscure her empty eyesocket."
+item_icon: alyss_rose
+additional_data: /obj/item/clothing/glasses
+}
+
+{
+ckey: xdarksapphire
+character_name: Alyss
+item_path: /obj/item/kit/clothing
+item_name: Antique Apron
+item_desc: "An antique apron with resewn stitching."
+item_icon: alyss_apron
+additional_data: /obj/item/clothing/accessory/storage/webbing, /obj/item/clothing/accessory/storage/white_vest
+}
+
+{
+ckey: xdarksapphire
+character_name: Alyss
+item_path: /obj/item/clothing/under
+item_name: Antique Dress
+item_desc: "A well-worn, slightly faded antique dress."
+item_icon: alyss_dress2
+}
+
+{
+ckey: xdarksapphire
+character_name: Alyss
+item_path: /obj/item/clothing/shoes
+item_name: Antique Boots
+item_desc: "A pair of antique leather boots. They have a short heel, and the leather is somewhat scratched."
+item_icon: alyss_boots
+}
+
+{
+ckey: xdarksapphire
+character_name: Alyss
+item_path: /obj/item/storage/backpack
+item_name: Antique Bag
+item_desc: "A faithful recreation of a leather bag design from the 19th century."
+item_icon: alyss_bag
 }
 
 {
