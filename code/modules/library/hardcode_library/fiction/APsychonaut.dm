@@ -417,3 +417,288 @@ McDermit just laughed, before lighting up his cigarette and shaking his head.<br
 					</body>
 					</html>
 					"})
+
+/// In Her Honour by Karla.
+
+/obj/item/book/bundle/custom_library/fiction/inherhonour
+
+	name = "In Her Honour"
+	desc = "A hardbound book titled \"In Her Honour\" by Karla."
+	description_info = "This book is titled \"In Her Honour\" by Karla. There's a blurb on the back: <br>\
+						An ancient Solar tournament ends in an unexpected triumph."
+
+	title = "In Her Honour"
+	icon_state = "book7"
+	origkey = "APsychonaut"
+	author = "Karla"
+
+	pages = list({"<html>
+					<head>
+					<style>
+					h1 {font-family: Palatino Linotype; font-size: 20px; color: #3F3A55;}
+					body {font-family: Times New Roman; font-size: 17px; color: #3F3A55; background-color: #B3D9DA; text-align: center;}
+					.border1 {border-style: double double solid solid; border-width: 7px; border-color: #3F3A55; padding: 10px; background-color: #EEEEEE;}
+					.border2 {border-style: dashed; border-width: 2px; border-color: #B3D9DA; padding: 6px;}
+					</style>
+					</head>
+					<body>
+					<div class="border1">
+					<div class="border2">
+					<h1><i>A<br>In Her Honour</i></h1>
+					<br><br>
+					<i>by<br>Karla</i><br>
+					<br>
+					</div>
+					</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family: Times New Roman; color: #55413A; font-size: 16px; background-color: #EBE1D9;}
+					.border {border-style: hidden; padding: 15px;}
+					</style>
+					</head>
+					<body>
+					<div class="border">
+					"And on the left, Ser Jamie of Florence, seeking the favour of Lady Marilka!"<br><br>
+					The announcer grabbed at the gauntlet of the armoured figure beside him, lofting the hand into the air.<br><br>
+					It was a warm afternoon in the French hills, with a bright sun high in the sky bathing the deep green grass in a heavenly glow. That same sun left the knights participating in today's tournament absolutely radiant as the light glinted from the well polished metal of armour and weapon alike.<br><br>
+					The two combatants in the upcoming bout looked particularly resplendent, Ser Jamie themself was adorned in buffered steel, with bright brass highlights along the crest of their helm and shoulders. Their opponent was similarly well dressed, though acting as a near polar opposite. Deep blued armour captured much of the sunshine and kept it to itself, while the silver highlights along their sternum and waist stubbornly refused to participate in the jealousy of its neighbours.<br><br>
+					They both took to their ends of the jousting grounds, and vaulted themselves upon their mounts before having their squires pass them both shield and lance. Steel and blue both stared at each other with steadied nerves across the field of battle.<br><br>>
+					<center>- 1 -</center>
+					</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family: Times New Roman; color: #55413A; font-size: 16px; background-color: #EBE1D9;}
+					.border {border-style: hidden; padding: 15px;}
+					</style>
+					</head>
+					<body>
+					<div class="border">
+					The announcer stepped into the centre of the tourney grounds, urging the spectators on with their cheering, before with great flourish he whipped a large, coloured handkerchief from his shirt and held it in view. There was a long pause, as tension rapidly built. Then, suddenly, he dropped the cloth and fled as it fluttered to the ground.<br><br>
+					The instant it touched Earth, the riders spurred their horses on. The two animals snorted and whinnied before driving themselves forward, hooves cutting at the dirt beneath them.<br><br>
+					In the stands, the fair Lady Marilka watched her champion below with bated breath. Despite the worry etched into her features, she managed to otherwise keep her composure as she watched the scene unfold below. Blonde of hair, and pale of skin, she was blessed with bright, alert eyes and a cute button nose set between sharp cheekbones and above a pointed chin. Her floral patterned dress did well to show her tall, thin body, cinching tightly around her narrow waist, and serving to help show her ample bosom.<br><br>
+					Her champion and their opponent grew close, now, both lowering their lances in preparation, before...<br><br>
+					<center>- 2 -</center>
+					</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family: Times New Roman; color: #55413A; font-size: 16px; background-color: #EBE1D9;}
+					.border {border-style: hidden; padding: 15px;}
+					</style>
+					</head>
+					<body>
+					<div class="border">
+					<b><i>CRASH!</b></i><br><br>
+					Both lances shattered into a hail of wood, and laminate, showering the ground around the two combatants with splinters.<br><br>
+					Both were swiftly unseated from their horses, left sprawled upon their backs. Both had used their only lance for the fight. And so, rather than submit to a draw, they both drew swords and set upon each other.<br><br>
+					The sound of their blows, their parries, blocks and swings rung out over the battlegrounds. Sunlight glinted wildly as it was thrown about by the desperately swung metal. The crowd threw themselves onto their feet with elation, roaring excitedly for their chosen competitor.<br><br>
+					The melee grew more and more frantic until the knight clad in blue found the upper hand, and threw Ser Jamie's blade clear with a blow from his own. The steel coloured fighter refused defeat, though, and threw themself bodily at their opponent.<br><br>
+					The two of them clattered heavily to the mud and dirt below, the blue knight's sword flying from his hand as they fell. They struggled and rolled about, each trying to get the upper hand. Elbows, fists, knees, feet, all engaged and struck in a bid to pin the owner's opponent against the ground.<br><br>
+					<center>- 3 -</center>
+					</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family: Times New Roman; color: #55413A; font-size: 16px; background-color: #EBE1D9;}
+					.border {border-style: hidden; padding: 15px;}
+					</style>
+					</head>
+					<body>
+					<div class="border">
+					Lady Marilka by now was awash with terror for her champion, standing herself with her hands clenched tightly against her sternum. Armour came wrenched free, daggers were drawn, and an audible gasp of fear came from the crowd. Cuts and slices found their way between plates, until finally Ser Jamie found the upper hand, pinning the blue knight's shoulders with their knees, and throwing open the visor with a dagger poised above him prepared to end the fight once and for all.<br><br>
+					"I yield!" the blue knight boomed, finally relinquishing the grasp on his own knife.<br><br>
+					The crowd erupted into applause, and Lady Marilka found herself finally releasing a breath she did not know she had been holding. The announcer once again burst forth rushing out to formally announce the win.<br><br>
+					<center>- 4 -</center>
+					</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family: Times New Roman; color: #55413A; font-size: 16px; background-color: #EBE1D9;}
+					.border {border-style: hidden; padding: 15px;}
+					</style>
+					</head>
+					<body>
+					<div class="border">
+					"Victory! Victory most glorious!" the announcer cried, grabbing at the wrist of Ser Jamie, and hastily tugging the panting knight to their feet.<br><br>
+					Swiftly, at the announcer's insistence, the two made their way to stand before the nobles' bleachers. Jamie, still wounded and exhausted, had no energy to resist, and stumbled as they were dragged. They half slouched as the announcer once again lofted the gauntlet into the air, and the crowd cheered yet again.<br><br>
+					Finally, regaining their strength enough to stand fully, they themselves raised their other hand, eliciting yet another roar of approval. Lady Marilka herself was brought to a standing ovation by the display. The announcer turned to Ser Jamie, relinquishing his grasp on the steel.<br><br>
+					"Good Ser Knight!" he boomed, "you must remove your helmet, so that your lady may gaze upon your victorious features!"<br><br>
+					Jamie hesitated at this. Slowly, however, they removed their gauntlet, then wrapped their fingers around the base of the helm, and pulled it up. All at once, the entire crowd gasped. All but Lady Marilka.<br><br>
+					<center>- 5 -</center>
+					</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family: Times New Roman; color: #55413A; font-size: 16px; background-color: #EBE1D9;}
+					.border {border-style: hidden; padding: 15px;}
+					</style>
+					</head>
+					<body>
+					<div class="border">
+					"S- Ser Jamie! You are- are- are a-" stuttered the announcer, dropping her hand in surprise.<br><br>
+					"A Shieldmaiden" she concluded, flatly, "yes."<br><br>
+					Dead silence hung over the spectators, noble and commoner alike. The exhausted warrior looked about and took in expressions of both shock, and horror scattered amongst the staring faces. She sighed, and looked at the awestruck announcer.<br><br>
+					"Can you just give me my winnings, please?" she asked with absolutely no amusement in her voice. The presiding Duke was slightly dislodged from his paralysis at this, and gave a shallow nod to the announcer, who offered the purse with his jaw still lying on the floor.<br><br>
+					Ser Jamie took the bag with a terse, but polite 'thank you', before limping off to her tent.<br><br>
+					<center>- 6 -</center>
+					</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family: Times New Roman; color: #55413A; font-size: 16px; background-color: #EBE1D9;}
+					.border {border-style: hidden; padding: 15px;}
+					</style>
+					</head>
+					<body>
+					<div class="border">
+					A few minutes later, as she was stripping away her armour and assessing her wounds, Ser Jamie was near shocked off her stool when Lady Marilka stepped through the doorway. Scrabbling to her feet, and hastily trying to buckle the topmost clasp on her gambeson, she turned and bowed her head to the noble in respect.<br><br>
+					"Do not worry yourself too much over my presence" Lady Marilka said with a smile, "I imagine such injuries must be tender, and shy of the weight armour would put upon them."<br><br>
+					Cautiously, but not reluctantly, the knight gave a faint smile, letting her hand fall away from the clasp and letting the gambeson come with it. Indeed, Marilka's assumptions seemed to be correct, as Jamie's now exposed collar bone showed the deep purple tattoo of bruises that the impacts against her breastplate had drummed in.<br><br>
+					The noblewoman gasped at the sight and seemed unable to tear her eyes away. The knight gave an amused, but appreciative smile.<br><br>
+					"Apologies, my lady. For all its beauty and resplendence, our armour does hide things that are not so pretty."<br><br>
+					There was a short pause, before Marilka lifted her eyes to meet Jamie's, a reluctant but playful smile set into her features.<br><br>
+					"Oh..." she mused, almost half to herself, "I would say that what this armour hides is in fact quite pretty."<br><br>
+					<center>- 7 -</center>
+					</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family: Times New Roman; color: #55413A; font-size: 16px; background-color: #EBE1D9;}
+					.border {border-style: hidden; padding: 15px;}
+					</style>
+					</head>
+					<body>
+					<div class="border">
+					The knight, so eternally prepared for a sword out of nowhere, found herself completely caught off guard at this, the armour in her hand clattering to the ground in surprise.<br><br>
+					"Ap- Apologies, my lady" she stammered, bending over to pick up the plate, desperately seeking to hide the blush she felt burning her face. She scarcely noticed Lady Marilka's hand reaching for the same length of steel before it was too late, their fingers closing around it...<br><br>
+					And each other's hands.<br><br>
+					Her gaze darted upwards in surprise, a stammered "My- m--" quickly cut off as she was once more caught off guard. This time as the noble's lips met her own. To the knight, and the lady both, it was like an electromagnet had ignited inside them. The feelings of attraction that so many spoke of, denied to them for so long. The pair of them remained united as one for what seemed an age, before they finally broke apart to draw breath.<br><br>
+					They stared at each other, stupid in both speech and grin plastered on their faces, before the ever practical Jamie's returned to her first.<br><br>
+					<center>- 8 -</center>
+					</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family: Times New Roman; color: #55413A; font-size: 16px; background-color: #EBE1D9;}
+					.border {border-style: hidden; padding: 15px;}
+					</style>
+					</head>
+					<body>
+					<div class="border">
+					"My Lady..." she hesitated, "I- I wish for nothing more, but it is not <i>done</i>!"<br><br>
+					"Of course it is," Marilka replied, voice breathy with both satisfaction and need, "You are a knight, and I am a daughter of a lord. In an instant, a heroic instant, you have swept me from my feet, and saved me from a horrid life locked away, and alone!"<br><br>
+					Her voice cracked into an amused giggle, as she wrapped her arms around the back of Jamie's neck, and urged her onwards, "So please..."<br><br>
+					Pulling the larger woman closer, she finished with a whisper in her ear, "allow me to show you how grateful I am that you're here."<br><br>
+					<center>- 9 -</center>
+					</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family: Times New Roman; color: #55413A; font-size: 16px; background-color: #EBE1D9;}
+					.border {border-style: hidden; padding: 15px;}
+					</style>
+					</head>
+					<body>
+					<div class="border">
+					<br><br><br><center>\[For some reason this page has just been replaced with pages out of a history book saying that Sappho was often pictured with her very good friend.\]</center><br><br><br>
+					</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family: Times New Roman; color: #55413A; font-size: 16px; background-color: #EBE1D9;}
+					.border {border-style: hidden; padding: 15px;}
+					</style>
+					</head>
+					<body>
+					<div class="border">
+					<br><br><br><center>\[A picture's drawn here. It looks like a set of five old-timey carpenter's nails, with the second and third one blunted.\]</center><br><br><br>
+					</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family: Times New Roman; color: #55413A; font-size: 16px; background-color: #EBE1D9;}
+					.border {border-style: hidden; padding: 15px;}
+					</style>
+					</head>
+					<body>
+					<div class="border">
+					<br><br><br><center>\[Why is there just a map of the Isle of Lesbos here?.\]</center><br><br><br>
+					</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family: Times New Roman; color: #55413A; font-size: 16px; background-color: #EBE1D9;}
+					.border {border-style: hidden; padding: 15px;}
+					</style>
+					</head>
+					<body>
+					<div class="border">
+					<br><br><br><center>\[Oh it must be nautical charts. This page has a picture of a man in a boat, and he looks VERY happy. He probably just successfully navigated there.\]</center><br><br><br>
+					</div>
+					</body>
+					</html>
+					"},
+				{"<html>
+					<head>
+					<style>
+					body {font-family: Times New Roman; color: #55413A; font-size: 16px; background-color: #EBE1D9;}
+					.border {border-style: hidden; padding: 15px;}
+					</style>
+					</head>
+					<body>
+					<div class="border">
+					Marilka sat by Jamie's bedside, redressed in her full attire. The knight, exhausted by her two grapple-filled bouts, simply sat in bed, with her upper half bare. The pair had spent the evening together, up until the wee hours of the morning chatting the night away, discussing everything from their fears to their futures before Jamie's bruising grew too tender. Marilka had set to gently wrapping it in bandages, savouring her last chance to be close to her newfound desire before the demands of the world held them apart once more.<br><br>
+					Unfortunately, the encounter was to be short lived, as a voice called from the entrance of the tent.<br><br>
+					"Lady Marilka?" a man shouted inside.<br><br>
+					"Enter" came her reply, as she finished clasping off the bandage.<br><br>
+					The gentleman, seemingly a messenger for Marilka's father given how he was dressed, paused, then bowed his head in deference.<br><br>
+					"Milady" he said, meekly, "Your father requires you at once in the great hall. The Northmen-- they're back."<br><br>
+					The noble stood with her features set, and nodded. She looked back to the woman behind her.<br><br>
+					"I must go, Ser Jamie. Please do recover with great haste. I sense that we will require you to stay here for some time."<br><br>
+					She smiled warmly at the knight, before her expression returned to one befitting of her station, and she followed the messenger into the morning sun.<br><br><br><br>
+					<center>- END -</center>
+					</div>
+					</body>
+					</html>
+					"})
