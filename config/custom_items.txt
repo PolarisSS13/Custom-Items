@@ -1448,6 +1448,15 @@ kit_icon: kesielcoat
 }
 
 {
+ckey: toomie
+character_name: Kesiel Rasikl
+item_path: /obj/item/clothing/shoes/boots/winter
+item_name: winter boots
+item_desc: A pair of synthetic white and red boots with bronze coloured fur. They are quite flexible and waterproof.
+item_icon: kesielboots
+}
+
+{
 ckey: nkomaeda
 character_name: Yaizil Turvol
 item_path: /obj/item/kit/suit/rig
