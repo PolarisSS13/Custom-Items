@@ -40,6 +40,16 @@
 # }
 ##
 
+# Union Representative Card
+
+{
+ckey: evree
+character_name: Parker Stephenson
+item_path: /obj/item/card/id/union
+item_name: union representative ID (Parker Stephenson)
+item_desc: An access card issued to the elected NanoTrasen Union Representative of Cynosure. This one is issued to: Parker Stephenson.
+}
+
 {
 ckey: sabess
 character_name: Maria Korchnoi
