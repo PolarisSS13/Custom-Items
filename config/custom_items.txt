@@ -1534,3 +1534,37 @@ item_name: stone mask
 item_desc: A full-face mask that looks like it's made of stone.
 item_icon: adam_valeas_mask
 }
+
+{
+ckey: Prillup
+character_name: Bo Curro
+item_path: /obj/item/kit
+item_name: violin customization kit
+item_desc: A customization kit with all the parts needed to refit a violin into a fiddle. That's how that works, right?
+kit_name: maple wood fiddle
+kit_desc:  An aged hand-crafted fiddle showing signs of neglect and mistreatment, but with more recent treatments of care, sanding, and some varnish. A slightly sanded-down sigil on the back displays something being held aloft by two pairs of hands.
+kit_icon: curro_fiddle
+additional_data: /obj/item/instrument/violin
+}
+
+{
+ckey: SapphicSylveon
+character_name: Amelia Dalisay
+item_path: /obj/item/kit/suit
+item_name: coat modification kit
+item_desc: A customization kit with all the tools needed to convert a coat.
+kit_name: cute winter coat
+kit_desc: A heavy jacket made from synthetic animal furs. This one has a lesbian pride pin on the front, as well as some sewn-on patches from the show Captain Cutie's Chance Capers. 
+kit_icon: dalisay_coat
+}
+
+{
+ckey: Roadie
+character_name: Jake Hale
+item_path: /obj/item/kit/suit/rig
+item_name: Jake`s RIG Customization Kit
+item_desc: A customisation kit with all the parts needed to convert a RIG.
+kit_name: Jake Hale's Rig Module
+kit_desc: A RIG controller that seems a little more bulky than most, with a certain comformation to the man's spine not normally seen among RIGs. The plating of the suit itself seems expertly welded with the tech fitted between to an even higher degree. The camera lenses along the right side of the face seem to move independently of one another, flicking about as though to scan the wearer's surroundings without turning the head. 
+kit_icon: hale_rig
+}
