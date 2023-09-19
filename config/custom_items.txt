@@ -1568,3 +1568,12 @@ kit_name: Jake Hale's Rig Module
 kit_desc: A RIG controller that seems a little more bulky than most, with a certain comformation to the man's spine not normally seen among RIGs. The plating of the suit itself seems expertly welded with the tech fitted between to an even higher degree. The camera lenses along the right side of the face seem to move independently of one another, flicking about as though to scan the wearer's surroundings without turning the head. 
 kit_icon: hale_rig
 }
+
+{
+ckey: Greenjoe
+character_name: Lireca Tarama
+item_path: /obj/item/cane/white
+item_name: sifwood cane
+item_icon: tarama_cane  
+item_desc: A sturdy branch from a Sivian tree fashioned to be used as a navigation aid, it has some Schechi carved into it and some strips of cloth tied around it, one functioning as a grip.
+}
