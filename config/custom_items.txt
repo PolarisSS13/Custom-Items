@@ -1577,3 +1577,13 @@ item_name: sifwood cane
 item_icon: tarama_cane  
 item_desc: A sturdy branch from a Sivian tree fashioned to be used as a navigation aid, it has some Schechi carved into it and some strips of cloth tied around it, one functioning as a grip.
 }
+
+# Look, it has the right mechanics, minus the mechanical benefits I'm trying to avoid
+{
+ckey: Morguemeat
+character_name: Black Maw
+item_path: /obj/item/clothing/under/costume/sexyclown
+item_name: Deliverance's gift
+item_desc:  A white sleeveless dress with blue markings.
+item_icon: nurse
+}
