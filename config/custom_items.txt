@@ -43,11 +43,19 @@
 # Union Representative Card
 
 {
-ckey: evree
-character_name: Parker Stephenson
+ckey: secretlymaybeocelot
+character_name: Pareidolia Grey
 item_path: /obj/item/card/id/union
-item_name: union representative ID (Parker Stephenson)
-item_desc: An access card issued to the elected NanoTrasen Union Representative of Cynosure. This one is issued to: Parker Stephenson.
+item_name: union representative ID (Pareidolia Grey)
+item_desc: An access card issued to the elected NanoTrasen Union Representative of Cynosure. This one is issued to: Pareidolia Grey.
+}
+
+{
+ckey: roadie
+character_name: Jake Hale
+item_path: /obj/item/card/id/union
+item_name: union representative ID (Jake Hale)
+item_desc: An access card issued to the elected NanoTrasen Union Representative of Cynosure. This one is issued to: Jake Hale.
 }
 
 {
