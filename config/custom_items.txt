@@ -43,11 +43,11 @@
 # Union Representative Card
 
 {
-ckey: secretlymaybeocelot
-character_name: Pareidolia Grey
+ckey: nkomaeda
+character_name: Haven Rasikl
 item_path: /obj/item/card/id/union
-item_name: union representative ID (Pareidolia Grey)
-item_desc: An access card issued to the elected NanoTrasen Union Representative of Cynosure. This one is issued to: Pareidolia Grey.
+item_name: union representative ID (Haven Rasikl)
+item_desc: An access card issued to the elected NanoTrasen Union Representative of Cynosure. This one is issued to: Haven Rasikl.
 }
 
 {
