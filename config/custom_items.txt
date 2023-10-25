@@ -1595,3 +1595,12 @@ item_name: Deliverance's gift
 item_desc:  A white sleeveless dress with blue markings.
 item_icon: nurse
 }
+
+{
+ckey: elgeonmb
+character_name: Eulalia Caiaz-Hoek
+item_path: /obj/item/clothing/suit/storage/miljacket
+item_name: Eulalia's Banner
+item_desc: To anyone well versed in Rubiconian culture, this jacket announces its bearer as Eulalia Caiazzo-Hoek-Kandinsky-Moreira, a deck technician on a large freighter and survivor of a terrifying vox raid. To most people, it's something fished out of a dumpster behind a punk concert, festooned with patches, with a stylized vox on the back and the name Eulalia stitched on the front.
+item_icon: eulalia_jacket
+}
