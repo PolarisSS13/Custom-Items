@@ -43,19 +43,19 @@
 # Union Representative Card
 
 {
-ckey: nkomaeda
-character_name: Haven Rasikl
+ckey: martin509
+character_name: Bejel Salin
 item_path: /obj/item/card/id/union
-item_name: union representative ID (Haven Rasikl)
-item_desc: An access card issued to the elected NanoTrasen Union Representative of Cynosure. This one is issued to: Haven Rasikl.
+item_name: union representative ID (Bejel Salin)
+item_desc: An access card issued to the elected NanoTrasen Union Representative of Cynosure. This one is issued to: Bejel Salin.
 }
 
 {
-ckey: roadie
-character_name: Jake Hale
+ckey: SapphicSylveon
+character_name: Sukasa Iskaro Usehi
 item_path: /obj/item/card/id/union
-item_name: union representative ID (Jake Hale)
-item_desc: An access card issued to the elected NanoTrasen Union Representative of Cynosure. This one is issued to: Jake Hale.
+item_name: union representative ID (Sukasa Iskaro Usehi)
+item_desc: An access card issued to the elected NanoTrasen Union Representative of Cynosure. This one is issued to: Sukasa Iskaro Usehi.
 }
 
 {
